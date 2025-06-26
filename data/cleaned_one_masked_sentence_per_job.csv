@@ -1,0 +1,1013 @@
+Title,MLM_Sentence
+Chief Executives,[MASK] determine and formulate policies and provide overall direction of companies or private and public sector organizations within guidelines set up by a board of directors or similar governing body.
+Chief Sustainability Officers,"[MASK] communicate and coordinate with management, shareholders, customers, and employees to address sustainability issues."
+General and Operations Managers,"[MASK] plan, direct, or coordinate the operations of public or private sector organizations, overseeing multiple departments or locations."
+Legislators,"[MASK] develop, introduce, or enact laws and statutes at the local, tribal, state, or federal level."
+Advertising and Promotions Managers,"[MASK] plan, direct, or coordinate advertising policies and programs or produce collateral materials, such as posters, contests, coupons, or giveaways, to create extra interest in the purchase of a product or service for a department, an entire organization, or on an account basis."
+Marketing Managers,"[MASK] plan, direct, or coordinate marketing policies and programs, such as determining the demand for products and services offered by a firm and its competitors, and identify potential customers."
+Sales Managers,"[MASK] plan, direct, or coordinate the actual distribution or movement of a product or service to the customer."
+Public Relations Managers,"[MASK] plan, direct, or coordinate activities designed to create or maintain a favorable public image or raise issue awareness for their organization or client."
+Fundraising Managers,"[MASK] plan, direct, or coordinate activities to solicit and maintain funds for special projects or nonprofit organizations."
+Administrative Services Managers,"[MASK] plan, direct, or coordinate one or more administrative services of an organization, such as records and information management, mail distribution, and other office support services."
+Facilities Managers,"[MASK] plan, direct, or coordinate operations and functionalities of facilities and buildings."
+Security Managers,"[MASK] direct an organization's security functions, including physical security and safety of employees and facilities."
+Computer and Information Systems Managers,"[MASK] plan, direct, or coordinate activities in such fields as electronic data processing, information systems, systems analysis, and computer programming."
+Financial Managers,"[MASK] plan, direct, or coordinate accounting, investing, banking, insurance, securities, and other financial activities of a branch, office, or department of an establishment."
+Treasurers and Controllers,"[MASK] direct financial activities, such as planning, procurement, and investments for all or part of an organization."
+Investment Fund Managers,"[MASK] plan, direct, or coordinate investment strategy or operations for a large pool of liquid assets supplied by institutional investors or individual investors."
+Industrial Production Managers,"[MASK] plan, direct, or coordinate the work activities and resources necessary for manufacturing products in accordance with cost, quality, and quantity specifications."
+Quality Control Systems Managers,"[MASK] plan, direct, or coordinate quality assurance programs."
+Geothermal Production Managers,[MASK] manage operations at geothermal power generation facilities.
+Biofuels Production Managers,[MASK] manage biofuels production and plant operations.
+Biomass Power Plant Managers,[MASK] manage operations at biomass power generation facilities.
+Hydroelectric Production Managers,[MASK] manage operations at hydroelectric power generation facilities.
+Purchasing Managers,"[MASK] plan, direct, or coordinate the activities of buyers, purchasing officers, and related workers involved in purchasing materials, products, and services."
+"Transportation, Storage, and Distribution Managers","[MASK] plan, direct, or coordinate transportation, storage, or distribution activities in accordance with organizational policies and applicable government laws or regulations."
+Supply Chain Managers,"[MASK] direct or coordinate production, purchasing, warehousing, distribution, or financial forecasting services or activities to limit costs and improve accuracy, customer service, or safety."
+Compensation and Benefits Managers,"[MASK] plan, direct, or coordinate compensation and benefits activities of an organization."
+Human Resources Managers,"[MASK] plan, direct, or coordinate human resources activities and staff of an organization."
+Training and Development Managers,"[MASK] plan, direct, or coordinate the training and development activities and staff of an organization."
+"Farmers, Ranchers, and Other Agricultural Managers","[MASK] plan, direct, or coordinate the management or operation of farms, ranches, greenhouses, aquacultural operations, nurseries, timber tracts, or other agricultural establishments."
+Construction Managers,"[MASK] plan, direct, or coordinate, usually through subordinate supervisory personnel, activities concerned with the construction and maintenance of structures, facilities, and systems."
+"Education and Childcare Administrators, Preschool and Daycare","[MASK] plan, direct, or coordinate academic or nonacademic activities of preschools or childcare centers and programs, including before- and after-school care."
+"Education Administrators, Kindergarten through Secondary","[MASK] plan, direct, or coordinate the academic, administrative, or auxiliary activities of kindergarten, elementary, or secondary schools."
+"Education Administrators, Postsecondary","[MASK] plan, direct, or coordinate student instruction, administration, and services, as well as other research and educational activities, at postsecondary institutions, including universities, colleges, and junior and community colleges."
+"Education Administrators, All Other",[MASK] all education administrators not listed separately.
+Architectural and Engineering Managers,"[MASK] plan, direct, or coordinate activities in such fields as architecture and engineering or research and development in these fields."
+Biofuels/Biodiesel Technology and Product Development Managers,"[MASK] define, plan, or execute biofuels/biodiesel research programs that evaluate alternative feedstock and process technologies with near-term commercial potential."
+Food Service Managers,"[MASK] plan, direct, or coordinate activities of an organization or department that serves food and beverages."
+Gambling Managers,"[MASK] plan, direct, or coordinate gambling operations in a casino."
+"Entertainment and Recreation Managers, Except Gambling","[MASK] plan, direct, or coordinate entertainment and recreational activities and operations of a recreational facility, including cruise ships and parks."
+Lodging Managers,"[MASK] plan, direct, or coordinate activities of an organization or department that provides lodging and other accommodations."
+Medical and Health Services Managers,"[MASK] plan, direct, or coordinate medical and health services in hospitals, clinics, managed care organizations, public health agencies, or similar organizations."
+Natural Sciences Managers,"[MASK] plan, direct, or coordinate activities in such fields as life sciences, physical sciences, mathematics, statistics, and research and development in these fields."
+Clinical Research Coordinators,"[MASK] plan, direct, or coordinate clinical research projects."
+Water Resource Specialists,"[MASK] design or implement programs and strategies related to water resource issues such as supply, quality, and regulatory compliance issues."
+Postmasters and Mail Superintendents,"[MASK] plan, direct, or coordinate operational, administrative, management, and support services of a U.S."
+"Property, Real Estate, and Community Association Managers","[MASK] plan, direct, or coordinate the selling, buying, leasing, or governance activities of commercial, industrial, or residential real estate properties."
+Social and Community Service Managers,"[MASK] plan, direct, or coordinate the activities of a social service program or community outreach organization."
+Emergency Management Directors,"[MASK] plan and direct disaster response or crisis management activities, provide disaster preparedness training, and prepare emergency plans and procedures for natural (e.g., hurricanes, floods, earthquakes), wartime, or technological (e.g., nuclear power plant emergencies or hazardous materials spills) disasters or hostage situations."
+Funeral Home Managers,"[MASK] plan, direct, or coordinate the services or resources of funeral homes."
+"Personal Service Managers, All Other",[MASK] all personal service managers not listed separately.
+Fitness and Wellness Coordinators,[MASK] manage or coordinate fitness and wellness programs and services.
+Spa Managers,"[MASK] plan, direct, or coordinate activities of a spa facility."
+"Managers, All Other",[MASK] all managers not listed separately.
+Regulatory Affairs Managers,"[MASK] plan, direct, or coordinate production activities of an organization to ensure compliance with regulations and standard operating procedures."
+Compliance Managers,"[MASK] plan, direct, or coordinate activities of an organization to ensure compliance with ethical or regulatory standards."
+Loss Prevention Managers,"[MASK] plan and direct policies, procedures, or systems to prevent the loss of assets."
+Wind Energy Operations Managers,"[MASK] manage wind field operations, including personnel, maintenance activities, financial activities, and planning."
+Wind Energy Development Managers,"[MASK] lead or manage the development and evaluation of potential wind energy business opportunities, including environmental studies, permitting, and proposals."
+Brownfield Redevelopment Specialists and Site Managers,[MASK] plan and direct cleanup and redevelopment of contaminated properties for reuse.
+"Agents and Business Managers of Artists, Performers, and Athletes","[MASK] represent and promote artists, performers, and athletes in dealings with current or prospective employers."
+"Buyers and Purchasing Agents, Farm Products",[MASK] purchase farm products either for further processing or resale.
+"Wholesale and Retail Buyers, Except Farm Products","[MASK] buy merchandise or commodities, other than farm products, for resale to consumers at the wholesale or retail level, including both durable and nondurable goods."
+"Purchasing Agents, Except Wholesale, Retail, and Farm Products","[MASK] purchase machinery, equipment, tools, parts, supplies, or services necessary for the operation of an establishment."
+"Claims Adjusters, Examiners, and Investigators",[MASK] review settled claims to determine that payments and settlements are made in accordance with company practices and procedures.
+"Insurance Appraisers, Auto Damage",[MASK] appraise automobile or other vehicle damage to determine repair costs for insurance claim settlement.
+Compliance Officers,"[MASK] examine, evaluate, and investigate eligibility for or conformity with laws and regulations governing contract compliance of licenses and permits, and perform other compliance and enforcement inspection and analysis activities not classified elsewhere."
+Environmental Compliance Inspectors,"[MASK] inspect and investigate sources of pollution to protect the public and environment and ensure conformance with Federal, State, and local regulations and ordinances."
+Equal Opportunity Representatives and Officers,"[MASK] monitor and evaluate compliance with equal opportunity laws, guidelines, and policies to ensure that employment practices and contracting arrangements give equal opportunity without regard to race, religion, color, national origin, sex, age, or disability."
+Government Property Inspectors and Investigators,[MASK] investigate or inspect government property to ensure compliance with contract agreements and government regulations.
+Coroners,"[MASK] direct activities such as autopsies, pathological and toxicological analyses, and inquests relating to the investigation of deaths occurring within a legal jurisdiction to determine cause of death or to fix responsibility for accidental, violent, or unexplained deaths."
+Regulatory Affairs Specialists,"[MASK] coordinate and document internal regulatory processes, such as internal audits, inspections, license renewals, or registrations."
+Customs Brokers,[MASK] prepare customs documentation and ensure that shipments meet all applicable laws to facilitate the import and export of goods.
+Cost Estimators,"[MASK] prepare cost estimates for product manufacturing, construction projects, or services to aid management in bidding on or determining price of product or service."
+Human Resources Specialists,"[MASK] recruit, screen, interview, or place individuals within an organization."
+Farm Labor Contractors,[MASK] recruit and hire seasonal or temporary agricultural laborers.
+Labor Relations Specialists,"[MASK] resolve disputes between workers and managers, negotiate collective bargaining agreements, or coordinate grievance procedures to handle employee complaints."
+Logisticians,[MASK] analyze and coordinate the ongoing logistical functions of a firm or organization.
+Logistics Engineers,"[MASK] design or analyze operational solutions for projects such as transportation optimization, network modeling, process and methods analysis, cost containment, capacity enhancement, routing and shipment optimization, or information management."
+Logistics Analysts,[MASK] analyze product delivery or supply chain processes to identify or recommend changes.
+Project Management Specialists,"[MASK] analyze and coordinate the schedule, timeline, procurement, staffing, and budget of a product or service on a per project basis."
+Management Analysts,"[MASK] conduct organizational studies and evaluations, design systems and procedures, conduct work simplification and measurement studies, and prepare operations and procedures manuals to assist management in operating more efficiently and effectively."
+"Meeting, Convention, and Event Planners","[MASK] coordinate activities of staff, convention personnel, or clients to make arrangements for group meetings, events, or conventions."
+Fundraisers,[MASK] organize activities to raise funds or otherwise solicit and gather monetary donations or other gifts for an organization.
+"Compensation, Benefits, and Job Analysis Specialists",[MASK] conduct programs of compensation and benefits and job analysis for employer.
+Training and Development Specialists,[MASK] design or conduct work-related training and development programs to improve individual skills or organizational performance.
+Market Research Analysts and Marketing Specialists,"[MASK] research conditions in local, regional, national, or online markets."
+Search Marketing Strategists,"[MASK] employ search marketing tactics to increase visibility and engagement with content, products, or services in Internet-enabled devices or interfaces."
+"Business Operations Specialists, All Other",[MASK] all business operations specialists not listed separately.
+Business Continuity Planners,"[MASK] develop, maintain, or implement business continuity and disaster recovery strategies and solutions, including risk assessments, business impact analyses, strategy selection, and documentation of business continuity and disaster recovery procedures."
+Sustainability Specialists,"[MASK] address organizational sustainability issues, such as waste stream management, green building practices, and green procurement plans."
+Online Merchants,[MASK] conduct retail activities of businesses operating exclusively online.
+Security Management Specialists,"[MASK] conduct security assessments for organizations, and design security systems and processes."
+Accountants and Auditors,"[MASK] examine, analyze, and interpret accounting records to prepare financial statements, give advice, or audit and evaluate statements prepared by others."
+Appraisers of Personal and Business Property,"[MASK] appraise and estimate the fair value of tangible personal or business property, such as jewelry, art, antiques, collectibles, and equipment."
+Appraisers and Assessors of Real Estate,"[MASK] appraise real estate, exclusively, and estimate its fair value."
+Budget Analysts,"[MASK] examine budget estimates for completeness, accuracy, and conformance with procedures and regulations."
+Credit Analysts,[MASK] analyze credit data and financial statements of individuals or firms to determine the degree of risk involved in extending credit or lending money.
+Financial and Investment Analysts,"[MASK] conduct quantitative analyses of information involving investment programs or financial data of public or private institutions, including valuation of businesses."
+Personal Financial Advisors,"[MASK] advise clients on financial plans using knowledge of tax and investment strategies, securities, insurance, pension plans, and real estate."
+Insurance Underwriters,[MASK] review individual applications for insurance to evaluate degree of risk involved and determine acceptance of applications.
+Financial Risk Specialists,"[MASK] analyze and measure exposure to credit and market risk threatening the assets, earning capacity, or economic state of an organization."
+Financial Examiners,[MASK] enforce or ensure compliance with laws and regulations governing financial and securities institutions and financial and real estate transactions.
+Credit Counselors,[MASK] advise and educate individuals or organizations on acquiring and managing debt.
+Loan Officers,"[MASK] evaluate, authorize, or recommend approval of commercial, real estate, or credit loans."
+"Tax Examiners and Collectors, and Revenue Agents",[MASK] determine tax liability or collect taxes from individuals or business firms according to prescribed laws and regulations.
+Tax Preparers,[MASK] prepare tax returns for individuals or small businesses.
+"Financial Specialists, All Other",[MASK] all financial specialists not listed separately.
+Financial Quantitative Analysts,"[MASK] develop quantitative techniques to inform securities investing, equities investing, pricing, or valuation of financial instruments."
+"Fraud Examiners, Investigators and Analysts","[MASK] obtain evidence, take statements, produce reports, and testify to findings regarding resolution of fraud allegations."
+Computer Systems Analysts,"[MASK] analyze science, engineering, business, and other data processing problems to develop and implement solutions to complex applications problems, system administration issues, or network concerns."
+Health Informatics Specialists,"[MASK] apply knowledge of nursing and informatics to assist in the design, development, and ongoing modification of computerized health care systems."
+Information Security Analysts,"[MASK] plan, implement, upgrade, or monitor security measures for the protection of computer networks and information."
+Computer and Information Research Scientists,"[MASK] conduct research into fundamental computer and information science as theorists, designers, or inventors."
+Computer Network Support Specialists,"[MASK] analyze, test, troubleshoot, and evaluate existing network systems, such as local area networks (LAN), wide area networks (WAN), cloud networks, servers, and other data communications networks."
+Computer User Support Specialists,[MASK] provide technical assistance to computer users.
+Computer Network Architects,"[MASK] design and implement computer and information networks, such as local area networks (LAN), wide area networks (WAN), intranets, extranets, and other data communications networks."
+Telecommunications Engineering Specialists,"[MASK] design or configure wired, wireless, and satellite communications systems for voice, video, and data services."
+Database Administrators,"[MASK] administer, test, and implement computer databases, applying knowledge of database management systems."
+Database Architects,"[MASK] design strategies for enterprise databases, data warehouse systems, and multidimensional networks."
+Data Warehousing Specialists,"[MASK] design, model, or implement corporate data warehousing activities."
+Network and Computer Systems Administrators,"[MASK] install, configure, and maintain an organization's local area network (LAN), wide area network (WAN), data communications network, operating systems, and physical and virtual servers."
+Computer Programmers,"[MASK] create, modify, and test the code and scripts that allow computer applications to run."
+Software Developers,"[MASK] research, design, and develop computer and network software or specialized utility programs."
+Software Quality Assurance Analysts and Testers,[MASK] develop and execute software tests to identify software problems and their causes.
+Web Developers,"[MASK] develop and implement websites, web applications, application databases, and interactive web interfaces."
+Web and Digital Interface Designers,[MASK] design digital user interfaces or websites.
+Video Game Designers,[MASK] design core features of video games.
+"Computer Occupations, All Other",[MASK] all computer occupations not listed separately.
+Web Administrators,"[MASK] manage web environment design, deployment, development and maintenance activities."
+Geographic Information Systems Technologists and Technicians,"[MASK] assist scientists or related professionals in building, maintaining, modifying, or using geographic information systems (GIS) databases."
+Document Management Specialists,"[MASK] implement and administer enterprise-wide document management systems and related procedures that allow organizations to capture, store, retrieve, share, and destroy electronic records and documents."
+Penetration Testers,[MASK] evaluate network system security by conducting simulated internal and external cyberattacks using adversary tools and techniques.
+Information Security Engineers,[MASK] develop and oversee the implementation of information security procedures and policies.
+Digital Forensics Analysts,"[MASK] conduct investigations on computer-based crimes establishing documentary or physical evidence, such as digital media and logs associated with cyber intrusion incidents."
+Blockchain Engineers,"[MASK] maintain and support distributed and decentralized blockchain-based networks or block-chain applications such as cryptocurrency exchange, payment processing, document sharing, and digital voting."
+Computer Systems Engineers/Architects,"[MASK] design and develop solutions to complex applications problems, system administration issues, or network concerns."
+Information Technology Project Managers,"[MASK] plan, initiate, and manage information technology (IT) projects."
+Actuaries,"[MASK] analyze statistical data, such as mortality, accident, sickness, disability, and retirement rates and construct probability tables to forecast risk and liability for payment of future benefits."
+Mathematicians,"[MASK] conduct research in fundamental mathematics or in application of mathematical techniques to science, management, and other fields."
+Operations Research Analysts,"[MASK] formulate and apply mathematical modeling and other optimizing methods to develop and interpret information that assists management with decisionmaking, policy formulation, or other managerial functions."
+Statisticians,"[MASK] develop or apply mathematical or statistical theory and methods to collect, organize, interpret, and summarize numerical data to provide usable information."
+Biostatisticians,[MASK] develop and apply biostatistical theory and methods to the study of life sciences.
+Data Scientists,[MASK] develop and implement a set of techniques or analytics applications to transform raw data into meaningful information using data-oriented programming languages and visualization software.
+Business Intelligence Analysts,[MASK] produce financial and market intelligence by querying data repositories and generating periodic reports.
+Clinical Data Managers,"[MASK] apply knowledge of health care and database management to analyze clinical data, and to identify and report trends."
+"Mathematical Science Occupations, All Other",[MASK] all mathematical scientists not listed separately.
+Bioinformatics Technicians,"[MASK] apply principles and methods of bioinformatics to assist scientists in areas such as pharmaceuticals, medical technology, biotechnology, computational biology, proteomics, computer information science, biology and medical informatics."
+"Architects, Except Landscape and Naval","[MASK] plan and design structures, such as private residences, office buildings, theaters, factories, and other structural property."
+Landscape Architects,"[MASK] plan and design land areas for projects such as parks and other recreational facilities, airports, highways, hospitals, schools, land subdivisions, and commercial, industrial, and residential sites."
+Cartographers and Photogrammetrists,"[MASK] research, study, and prepare maps and other spatial data in digital or graphic form for one or more purposes, such as legal, social, political, educational, and design purposes."
+Surveyors,[MASK] make exact measurements and determine property boundaries.
+Geodetic Surveyors,"[MASK] measure large areas of the Earth's surface using satellite observations, global navigation satellite systems (GNSS), light detection and ranging (LIDAR), or related sources."
+Aerospace Engineers,"[MASK] perform engineering duties in designing, constructing, and testing aircraft, missiles, and spacecraft."
+Agricultural Engineers,"[MASK] apply knowledge of engineering technology and biological science to agricultural problems concerned with power and machinery, electrification, structures, soil and water conservation, and processing of agricultural products."
+Bioengineers and Biomedical Engineers,"[MASK] apply knowledge of engineering, biology, chemistry, computer science, and biomechanical principles to the design, development, and evaluation of biological, agricultural, and health systems and products, such as artificial organs, prostheses, instrumentation, medical information systems, and health management and care delivery systems."
+Chemical Engineers,"[MASK] design chemical plant equipment and devise processes for manufacturing chemicals and products, such as gasoline, synthetic rubber, plastics, detergents, cement, paper, and pulp, by applying principles and technology of chemistry, physics, and engineering."
+Civil Engineers,"[MASK] perform engineering duties in planning, designing, and overseeing construction and maintenance of building structures and facilities, such as roads, railroads, airports, bridges, harbors, channels, dams, irrigation projects, pipelines, power plants, and water and sewage systems."
+Transportation Engineers,"[MASK] develop plans for surface transportation projects, according to established engineering standards and state or federal construction policy."
+Water/Wastewater Engineers,"[MASK] design or oversee projects involving provision of potable water, disposal of wastewater and sewage, or prevention of flood-related damage."
+Computer Hardware Engineers,"[MASK] research, design, develop, or test computer or computer-related equipment for commercial, industrial, military, or scientific use."
+Electrical Engineers,"[MASK] research, design, develop, test, or supervise the manufacturing and installation of electrical equipment, components, or systems for commercial, industrial, military, or scientific use."
+"Electronics Engineers, Except Computer","[MASK] research, design, develop, or test electronic components and systems for commercial, industrial, military, or scientific use employing knowledge of electronic theory and materials properties."
+Radio Frequency Identification Device Specialists,[MASK] design and implement radio frequency identification device (RFID) systems used to track shipments or goods.
+Environmental Engineers,"[MASK] research, design, plan, or perform engineering duties in the prevention, control, and remediation of environmental hazards using various engineering disciplines."
+"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","[MASK] promote worksite or product safety by applying knowledge of industrial processes, mechanics, chemistry, psychology, and industrial health and safety laws."
+Fire-Prevention and Protection Engineers,"[MASK] research causes of fires, determine fire protection methods, and design or recommend materials or equipment such as structural components or fire-detection equipment to assist organizations in safeguarding life and property against fire, explosion, and related hazards."
+Industrial Engineers,"[MASK] design, develop, test, and evaluate integrated systems for managing industrial production processes, including human work factors, quality control, inventory control, logistics and material flow, cost analysis, and production coordination."
+Human Factors Engineers and Ergonomists,"[MASK] design objects, facilities, and environments to optimize human well-being and overall system performance, applying theory, principles, and data regarding the relationship between humans and respective technology."
+Validation Engineers,"[MASK] design or plan protocols for equipment or processes to produce products meeting internal and external purity, safety, and quality requirements."
+Manufacturing Engineers,"[MASK] design, integrate, or improve manufacturing systems or related processes."
+Marine Engineers and Naval Architects,"[MASK] design, develop, and evaluate the operation of marine vessels, ship machinery, and related equipment, such as power supply and propulsion systems."
+Materials Engineers,[MASK] evaluate materials and develop machinery and processes to manufacture materials for use in products that must meet specialized design and performance specifications.
+Mechanical Engineers,"[MASK] perform engineering duties in planning and designing tools, engines, machines, and other mechanically functioning equipment."
+Fuel Cell Engineers,"[MASK] design, evaluate, modify, or construct fuel cell components or systems for transportation, stationary, or portable applications."
+Engineers,"[MASK] develop new or improved designs for vehicle structural members, engines, transmissions, or other vehicle systems, using computer-assisted design technology."
+Engineer,"[MASK] design, develop, or evaluate energy-related projects or programs to reduce energy costs or improve energy efficiency during the designing, building, or remodeling stages of construction."
+Mechatronics Engineers,"[MASK] research, design, develop, or test automation, intelligent systems, smart devices, or industrial systems control."
+Microsystems Engineers,"[MASK] research, design, develop, or test microelectromechanical systems (MEMS) devices."
+Photonics Engineers,"[MASK] design technologies specializing in light information or light energy, such as laser or fiber optics technology."
+Robotics Engineers,"[MASK] research, design, develop, or test robotic applications."
+Nanosystems Engineers,"[MASK] design, develop, or supervise the production of materials, devices, or systems of unique molecular or macromolecular composition, applying principles of nanoscale physics and electrical, chemical, or biological engineering."
+Wind Energy Engineers,[MASK] design underground or overhead wind farm collector systems and prepare and develop site specifications.
+Solar Energy Systems Engineers,"[MASK] perform site-specific engineering analysis or evaluation of energy efficiency and solar projects involving residential, commercial, or industrial customers."
+Architectural and Civil Drafters,"[MASK] prepare detailed drawings of architectural and structural features of buildings or drawings and topographical relief maps used in civil engineering projects, such as highways, bridges, and public works."
+Electrical and Electronics Drafters,"[MASK] prepare wiring diagrams, circuit board assembly diagrams, and layout drawings used for the manufacture, installation, or repair of electrical equipment."
+Mechanical Drafters,"[MASK] prepare detailed working diagrams of machinery and mechanical devices, including dimensions, fastening methods, and other engineering information."
+"Drafters, All Other",[MASK] all drafters not listed separately.
+Aerospace Engineering and Operations Technologists and Technicians,"[MASK] operate, install, adjust, and maintain integrated computer/communications systems, consoles, simulators, and other data acquisition, test, and measurement instruments and equipment, which are used to launch, track, position, and evaluate air and space vehicles."
+Civil Engineering Technologists and Technicians,"[MASK] apply theory and principles of civil engineering in planning, designing, and overseeing construction and maintenance of structures and facilities under the direction of engineering staff or physical scientists."
+Electrical and Electronic Engineering Technologists and Technicians,"[MASK] apply electrical and electronic theory and related knowledge, usually under the direction of engineering staff, to design, build, repair, adjust, and modify electrical components, circuitry, controls, and machinery for subsequent evaluation and use by engineering staff in making engineering design decisions."
+Electro-Mechanical and Mechatronics Technologists and Technicians,"[MASK] operate, test, maintain, or adjust unmanned, automated, servomechanical, or electromechanical equipment."
+Robotics Technicians,"[MASK] build, install, test, or maintain robotic equipment or related automated production systems."
+Environmental Engineering Technologists and Technicians,"[MASK] apply theory and principles of environmental engineering to modify, test, and operate equipment and devices used in the prevention, control, and remediation of environmental problems, including waste treatment and site remediation, under the direction of engineering staff or scientists."
+Industrial Engineering Technologists and Technicians,"[MASK] apply engineering theory and principles to problems of industrial layout or manufacturing production, usually under the direction of engineering staff."
+Nanotechnology Engineering Technologists and Technicians,"[MASK] implement production processes and operate commercial-scale production equipment to produce, test, or modify materials, devices, or systems of unique molecular or macromolecular composition."
+Mechanical Engineering Technologists and Technicians,"[MASK] apply theory and principles of mechanical engineering to modify, develop, test, or adjust machinery and equipment under direction of engineering staff or physical scientists."
+Automotive Engineering Technicians,"[MASK] assist engineers in determining the practicality of proposed product design changes and plan and carry out tests on experimental test devices or equipment for performance, durability, or efficiency."
+Calibration Technologists and Technicians,"[MASK] execute or adapt procedures and techniques for calibrating measurement devices, by applying knowledge of measurement science, mathematics, physics, chemistry, and electronics, sometimes under the direction of engineering staff."
+"Engineering Technologists and Technicians, Except Drafters, All Other","[MASK] all engineering technologists and technicians, except drafters, not listed separately."
+Non-Destructive Testing Specialists,"[MASK] test the safety of structures, vehicles, or vessels using x-ray, ultrasound, fiber optic or related equipment."
+Photonics Technicians,"[MASK] build, install, test, or maintain optical or fiber optic equipment, such as lasers, lenses, or mirrors, using spectrometers, interferometers, or related equipment."
+Surveying and Mapping Technicians,"[MASK] perform surveying and mapping duties, usually under the direction of an engineer, surveyor, cartographer, or photogrammetrist, to obtain data used for construction, mapmaking, boundary location, mining, or other purposes."
+Animal Scientists,"[MASK] conduct research in the genetics, nutrition, reproduction, growth, and development of domestic farm animals."
+Food Scientists and Technologists,"[MASK] use chemistry, microbiology, engineering, and other sciences to study the principles underlying the processing and deterioration of foods; analyze food content to determine levels of vitamins, fat, sugar, and protein; discover new food sources; research ways to make processed foods safe, palatable, and healthful; and apply food science knowledge to determine best ways to process, package, preserve, store, and distribute food."
+Soil and Plant Scientists,"[MASK] conduct research in breeding, physiology, production, yield, and management of crops and agricultural plants or trees, shrubs, and nursery stock, their growth in soils, and control of pests; or study the chemical, physical, biological, and mineralogical composition of soils as they relate to plant or crop growth."
+Biochemists and Biophysicists,"[MASK] study the chemical composition or physical principles of living cells and organisms, their electrical and mechanical energy, and related phenomena."
+Microbiologists,"[MASK] investigate the growth, structure, development, and other characteristics of microscopic organisms, such as bacteria, algae, or fungi."
+Zoologists and Wildlife Biologists,"[MASK] study the origins, behavior, diseases, genetics, and life processes of animals and wildlife."
+"Biological Scientists, All Other",[MASK] all biological scientists not listed separately.
+Bioinformatics Scientists,"[MASK] conduct research using bioinformatics theory and methods in areas such as pharmaceuticals, medical technology, biotechnology, computational biology, proteomics, computer information science, biology and medical informatics."
+Molecular and Cellular Biologists,[MASK] research and study cellular molecules and organelles to understand cell function and organization.
+Geneticists,"[MASK] research and study the inheritance of traits at the molecular, organism or population level."
+Biologists,"[MASK] research or study basic principles of plant and animal life, such as origin, relationship, development, anatomy, and functions."
+Conservation Scientists,"[MASK] manage, improve, and protect natural resources to maximize their use without damaging the environment."
+Range Managers,"[MASK] research or study range land management practices to provide sustained production of forage, livestock, and wildlife."
+Park Naturalists,"[MASK] plan, develop, and conduct programs to inform public of historical, natural, and scientific features of national, state, or local park."
+Foresters,"[MASK] manage public and private forested lands for economic, recreational, and conservation purposes."
+Epidemiologists,"[MASK] investigate and describe the determinants and distribution of disease, disability, or health outcomes."
+"Medical Scientists, Except Epidemiologists",[MASK] conduct research dealing with the understanding of human diseases and the improvement of human health.
+"Life Scientists, All Other",[MASK] all life scientists not listed separately.
+Astronomers,"[MASK] observe, research, and interpret astronomical phenomena to increase basic knowledge or apply such information to practical problems."
+Physicists,"[MASK] conduct research into physical phenomena, develop theories on the basis of observation and experiments, and devise methods to apply physical laws and theories."
+Atmospheric and Space Scientists,"[MASK] investigate atmospheric phenomena and interpret meteorological data, gathered by surface and air stations, satellites, and radar to prepare reports and forecasts for public and other uses."
+Chemists,[MASK] conduct qualitative and quantitative chemical analyses or experiments in laboratories for quality or process control or to develop new products or knowledge.
+Materials Scientists,"[MASK] research and study the structures and chemical properties of various natural and synthetic or composite materials, including metals, alloys, rubber, ceramics, semiconductors, polymers, and glass."
+"Environmental Scientists and Specialists, Including Health","[MASK] conduct research or perform investigation for the purpose of identifying, abating, or eliminating sources of pollutants or hazards that affect either the environment or public health."
+Climate Change Policy Analysts,[MASK] research and analyze policy developments related to climate change.
+Environmental Restoration Planners,[MASK] collaborate with field and biology staff to oversee the implementation of restoration projects and to develop new products.
+Industrial Ecologists,[MASK] apply principles and processes of natural ecosystems to develop models for efficient industrial systems.
+"Geoscientists, Except Hydrologists and Geographers","[MASK] study the composition, structure, and other physical aspects of the Earth."
+Hydrologists,"[MASK] research the distribution, circulation, and physical properties of underground and surface waters; and study the form and intensity of precipitation and its rate of infiltration into the soil, movement through the earth, and return to the ocean and atmosphere."
+"Physical Scientists, All Other",[MASK] all physical scientists not listed separately.
+Remote Sensing Scientists and Technologists,"[MASK] apply remote sensing principles and methods to analyze data and solve problems in areas such as natural resource management, urban planning, or homeland security."
+Economists,"[MASK] conduct research, prepare reports, or formulate plans to address economic problems related to the production and distribution of goods and services or monetary and fiscal policy."
+Environmental Economists,"[MASK] conduct economic analysis related to environmental protection and use of the natural environment, such as water, air, land, and renewable energy resources."
+Survey Researchers,"[MASK] plan, develop, or conduct surveys."
+Industrial-Organizational Psychologists,"[MASK] apply principles of psychology to human resources, administration, management, sales, and marketing problems."
+Clinical and Counseling Psychologists,"[MASK] assess, diagnose, and treat mental and emotional disorders of individuals through observation, interview, and psychological tests."
+School Psychologists,"[MASK] diagnose and implement individual or schoolwide interventions or strategies to address educational, behavioral, or developmental issues that adversely impact educational functioning in a school."
+"Psychologists, All Other",[MASK] all psychologists not listed separately.
+Neuropsychologists,"[MASK] apply theories and principles of neuropsychology to evaluate and diagnose disorders of higher cerebral functioning, often in research and medical settings."
+Clinical Neuropsychologists,"[MASK] assess and diagnose patients with neurobehavioral problems related to acquired or developmental disorders of the nervous system, such as neurodegenerative disorders, traumatic brain injury, seizure disorders, and learning disabilities."
+Sociologists,"[MASK] study human society and social behavior by examining the groups and social institutions that people form, as well as various social, religious, political, and business organizations."
+Urban and Regional Planners,"[MASK] develop comprehensive plans and programs for use of land and physical facilities of jurisdictions, such as towns, cities, counties, and metropolitan areas."
+Anthropologists and Archeologists,"[MASK] study the origin, development, and behavior of human beings."
+Geographers,"[MASK] study the nature and use of areas of the Earth's surface, relating and interpreting interactions of physical and cultural phenomena."
+Historians,"[MASK] research, analyze, record, and interpret the past as recorded in sources, such as government and institutional records, newspapers and other periodicals, photographs, interviews, films, electronic media, and unpublished manuscripts, such as personal diaries and letters."
+Political Scientists,"[MASK] study the origin, development, and operation of political systems."
+"Social Scientists and Related Workers, All Other",[MASK] all social scientists and related workers not listed separately.
+Transportation Planners,[MASK] prepare studies for proposed transportation projects.
+Agricultural Technicians,"[MASK] work with agricultural scientists in plant, fiber, and animal research, or assist with animal breeding and nutrition."
+Precision Agriculture Technicians,"[MASK] apply geospatial technologies, including geographic information systems (GIS) and Global Positioning System (GPS), to agricultural production or management activities, such as pest scouting, site-specific pesticide application, yield mapping, or variable-rate irrigation."
+Food Science Technicians,[MASK] work with food scientists or technologists to perform standardized qualitative and quantitative tests to determine physical or chemical properties of food or beverage products.
+Biological Technicians,[MASK] assist biological and medical scientists.
+Chemical Technicians,"[MASK] conduct chemical and physical laboratory tests to assist scientists in making qualitative and quantitative analyses of solids, liquids, and gaseous materials for research and development of new products or processes, quality control, maintenance of environmental standards, and other work involving experimental, theoretical, or practical application of chemistry and related sciences."
+"Environmental Science and Protection Technicians, Including Health","[MASK] perform laboratory and field tests to monitor the environment and investigate sources of pollution, including those that affect health, under the direction of an environmental scientist, engineer, or other specialist."
+"Geological Technicians, Except Hydrologic Technicians","[MASK] assist scientists or engineers in the use of electronic, sonic, or nuclear measuring instruments in laboratory, exploration, and production activities to obtain data indicating resources such as metallic ore, minerals, gas, coal, or petroleum."
+Hydrologic Technicians,"[MASK] collect and organize data concerning the distribution and circulation of ground and surface water, and data on its physical, chemical, and biological properties."
+Nuclear Technicians,"[MASK] assist nuclear physicists, nuclear engineers, or other scientists in laboratory, power generation, or electricity production activities."
+Nuclear Monitoring Technicians,"[MASK] collect and test samples to monitor results of nuclear experiments and contamination of humans, facilities, and environment."
+Social Science Research Assistants,"[MASK] assist social scientists in laboratory, survey, and other social science research."
+Forest and Conservation Technicians,"[MASK] provide technical assistance regarding the conservation of soil, water, forests, or related natural resources."
+Forensic Science Technicians,"[MASK] collect, identify, classify, and analyze physical evidence related to criminal investigations."
+"Life, Physical, and Social Science Technicians, All Other","[MASK] all life, physical, and social science technicians not listed separately."
+Quality Control Analysts,"[MASK] conduct tests to determine quality of raw materials, bulk intermediate and finished products."
+Remote Sensing Technicians,"[MASK] apply remote sensing technologies to assist scientists in areas such as natural resources, urban planning, or homeland security."
+Occupational Health and Safety Specialists,"[MASK] review, evaluate, and analyze work environments and design programs and procedures to control, eliminate, and prevent disease or injury caused by chemical, physical, and biological agents or ergonomic factors."
+Occupational Health and Safety Technicians,[MASK] collect data on work environments for analysis by occupational health and safety specialists.
+Substance Abuse and Behavioral Disorder Counselors,"[MASK] counsel and advise individuals with alcohol, tobacco, drug, or other problems, such as gambling and eating disorders."
+"Educational, Guidance, and Career Counselors and Advisors",[MASK] advise and assist students and provide educational and vocational guidance services.
+Marriage and Family Therapists,"[MASK] diagnose and treat mental and emotional disorders, whether cognitive, affective, or behavioral, within the context of marriage and family systems."
+Mental Health Counselors,"[MASK] counsel and advise individuals and groups to promote optimum mental and emotional health, with an emphasis on prevention."
+Rehabilitation Counselors,"[MASK] counsel individuals to maximize the independence and employability of persons coping with personal, social, and vocational difficulties that result from birth defects, illness, disease, accidents, aging, or the stress of daily life."
+"Counselors, All Other",[MASK] all counselors not listed separately.
+"Child, Family, and School Social Workers",[MASK] provide social services and assistance to improve the social and psychological functioning of children and their families and to maximize the family well-being and the academic functioning of children.
+Healthcare Social Workers,"[MASK] provide individuals, families, and groups with the psychosocial support needed to cope with chronic, acute, or terminal illnesses."
+Mental Health and Substance Abuse Social Workers,"[MASK] assess and treat individuals with mental, emotional, or substance abuse problems, including abuse of alcohol, tobacco, and/or other drugs."
+"Social Workers, All Other",[MASK] all social workers not listed separately.
+Health Education Specialists,"[MASK] provide and manage health education programs that help individuals, families, and their communities maximize and maintain healthy lifestyles."
+Probation Officers and Correctional Treatment Specialists,[MASK] provide social services to assist in rehabilitation of law offenders in custody or on probation or parole.
+Social and Human Service Assistants,"[MASK] assist other social and human service providers in providing client services in a wide variety of fields, such as psychology, rehabilitation, or social work, including support for families."
+Community Health Workers,[MASK] promote health within a community by assisting individuals to adopt healthy behaviors.
+"Community and Social Service Specialists, All Other",[MASK] all community and social service specialists not listed separately.
+Clergy,[MASK] conduct religious worship and perform other spiritual functions associated with beliefs and practices of religious faith or denomination.
+"Directors, Religious Activities and Education",[MASK] coordinate or design programs and conduct outreach to promote the religious education or activities of a denominational group.
+"Religious Workers, All Other",[MASK] all religious workers not listed separately.
+Lawyers,"[MASK] represent clients in criminal and civil litigation and other legal proceedings, draw up legal documents, or manage or advise clients on legal transactions."
+Judicial Law Clerks,[MASK] assist judges in court or by conducting research or preparing legal documents.
+"Administrative Law Judges, Adjudicators, and Hearing Officers",[MASK] conduct hearings to recommend or make decisions on claims concerning government programs or other government-related matters.
+"Arbitrators, Mediators, and Conciliators",[MASK] facilitate negotiation and conflict resolution through dialogue.
+"Judges, Magistrate Judges, and Magistrates","[MASK] arbitrate, advise, adjudicate, or administer justice in a court of law."
+Paralegals and Legal Assistants,"[MASK] assist lawyers by investigating facts, preparing legal documents, or researching legal precedent."
+"Title Examiners, Abstractors, and Searchers","[MASK] search real estate records, examine titles, or summarize pertinent legal or insurance documents or details for a variety of purposes."
+"Legal Support Workers, All Other",[MASK] all legal support workers not listed separately.
+"Business Teachers, Postsecondary","[MASK] teach courses in business administration and management, such as accounting, finance, human resources, labor and industrial relations, marketing, and operations research."
+"Computer Science Teachers, Postsecondary",[MASK] teach courses in computer science.
+"Mathematical Science Teachers, Postsecondary","[MASK] teach courses pertaining to mathematical concepts, statistics, and actuarial science and to the application of original and standardized mathematical techniques in solving specific problems and situations."
+"Architecture Teachers, Postsecondary","[MASK] teach courses in architecture and architectural design, such as architectural environmental design, interior architecture/design, and landscape architecture."
+"Engineering Teachers, Postsecondary","[MASK] teach courses pertaining to the application of physical laws and principles of engineering for the development of machines, materials, instruments, processes, and services."
+"Agricultural Sciences Teachers, Postsecondary",[MASK] teach courses in the agricultural sciences.
+"Biological Science Teachers, Postsecondary",[MASK] teach courses in biological sciences.
+"Forestry and Conservation Science Teachers, Postsecondary",[MASK] teach courses in forestry and conservation science.
+"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary","[MASK] teach courses in the physical sciences, except chemistry and physics."
+"Chemistry Teachers, Postsecondary",[MASK] teach courses pertaining to the chemical and physical properties and compositional changes of substances.
+"Environmental Science Teachers, Postsecondary",[MASK] teach courses in environmental science.
+"Physics Teachers, Postsecondary",[MASK] teach courses pertaining to the laws of matter and energy.
+"Anthropology and Archeology Teachers, Postsecondary",[MASK] teach courses in anthropology or archeology.
+"Area, Ethnic, and Cultural Studies Teachers, Postsecondary","[MASK] teach courses pertaining to the culture and development of an area, an ethnic group, or any other group, such as Latin American studies, women's studies, or urban affairs."
+"Economics Teachers, Postsecondary",[MASK] teach courses in economics.
+"Geography Teachers, Postsecondary",[MASK] teach courses in geography.
+"Political Science Teachers, Postsecondary","[MASK] teach courses in political science, international affairs, and international relations."
+"Psychology Teachers, Postsecondary","[MASK] teach courses in psychology, such as child, clinical, and developmental psychology, and psychological counseling."
+"Sociology Teachers, Postsecondary",[MASK] teach courses in sociology.
+"Social Sciences Teachers, Postsecondary, All Other",[MASK] all postsecondary social sciences teachers not listed separately.
+"Health Specialties Teachers, Postsecondary","[MASK] teach courses in health specialties, in fields such as dentistry, laboratory technology, medicine, pharmacy, public health, therapy, and veterinary medicine."
+"Nursing Instructors and Teachers, Postsecondary",[MASK] demonstrate and teach patient care in classroom and clinical units to nursing students.
+"Education Teachers, Postsecondary","[MASK] teach courses pertaining to education, such as counseling, curriculum, guidance, instruction, teacher education, and teaching English as a second language."
+"Library Science Teachers, Postsecondary",[MASK] teach courses in library science.
+"Criminal Justice and Law Enforcement Teachers, Postsecondary","[MASK] teach courses in criminal justice, corrections, and law enforcement administration."
+"Law Teachers, Postsecondary",[MASK] teach courses in law.
+"Social Work Teachers, Postsecondary",[MASK] teach courses in social work.
+"Art, Drama, and Music Teachers, Postsecondary","[MASK] teach courses in drama, music, and the arts including fine and applied art, such as painting and sculpture, or design and crafts."
+"Communications Teachers, Postsecondary","[MASK] teach courses in communications, such as organizational communications, public relations, radio/television broadcasting, and journalism."
+"English Language and Literature Teachers, Postsecondary","[MASK] teach courses in English language and literature, including linguistics and comparative literature."
+"Foreign Language and Literature Teachers, Postsecondary",[MASK] teach languages and literature courses in languages other than English.
+"History Teachers, Postsecondary",[MASK] teach courses in human history and historiography.
+"Philosophy and Religion Teachers, Postsecondary","[MASK] teach courses in philosophy, religion, and theology."
+"Family and Consumer Sciences Teachers, Postsecondary","[MASK] teach courses in childcare, family relations, finance, nutrition, and related subjects pertaining to home management."
+"Recreation and Fitness Studies Teachers, Postsecondary","[MASK] teach courses pertaining to recreation, leisure, and fitness studies, including exercise physiology and facilities management."
+"Career/Technical Education Teachers, Postsecondary","[MASK] teach vocational courses intended to provide occupational training below the baccalaureate level in subjects such as construction, mechanics/repair, manufacturing, transportation, or cosmetology, primarily to students who have graduated from or left high school."
+"Postsecondary Teachers, All Other",[MASK] all postsecondary teachers not listed separately.
+"Preschool Teachers, Except Special Education","[MASK] instruct preschool-aged students, following curricula or lesson plans, in activities designed to promote social, physical, and intellectual growth."
+"Kindergarten Teachers, Except Special Education",[MASK] teach academic and social skills to kindergarten students.
+"Elementary School Teachers, Except Special Education",[MASK] teach academic and social skills to students at the elementary school level.
+"Middle School Teachers, Except Special and Career/Technical Education","[MASK] teach one or more subjects to students at the middle, intermediate, or junior high school level."
+"Career/Technical Education Teachers, Middle School","[MASK] teach occupational, vocational, career, or technical subjects to students at the middle, intermediate, or junior high school level."
+"Secondary School Teachers, Except Special and Career/Technical Education",[MASK] teach one or more subjects to students at the secondary school level.
+"Career/Technical Education Teachers, Secondary School","[MASK] teach occupational, vocational, career, or technical subjects to students at the secondary school level."
+"Special Education Teachers, Preschool","[MASK] teach academic, social, and life skills to preschool-aged students with learning, emotional, or physical disabilities."
+"Special Education Teachers, Kindergarten","[MASK] teach academic, social, and life skills to kindergarten students with learning, emotional, or physical disabilities."
+"Special Education Teachers, Elementary School","[MASK] teach academic, social, and life skills to elementary school students with learning, emotional, or physical disabilities."
+"Special Education Teachers, Middle School","[MASK] teach academic, social, and life skills to middle school students with learning, emotional, or physical disabilities."
+"Special Education Teachers, Secondary School","[MASK] teach academic, social, and life skills to secondary school students with learning, emotional, or physical disabilities."
+"Special Education Teachers, All Other",[MASK] all special education teachers not listed separately.
+Adapted Physical Education Specialists,"[MASK] provide individualized physical education instruction or services to children, youth, or adults with exceptional physical needs due to gross motor developmental delays or other impairments."
+"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors","[MASK] teach or instruct out-of-school youths and adults in basic education, literacy, or English as a Second Language classes, or in classes for earning a high school equivalency credential."
+Self-Enrichment Teachers,"[MASK] teach or instruct individuals or groups for the primary purpose of self-enrichment or recreation, rather than for an occupational objective, educational attainment, competition, or fitness."
+"Substitute Teachers, Short-Term","[MASK] teach students on a short-term basis as a temporary replacement for a regular classroom teacher, typically using the regular teacher's lesson plan."
+Tutors,[MASK] instruct individual students or small groups of students in academic subjects to support formal class instruction or to prepare students for standardized or admissions tests.
+"Teachers and Instructors, All Other",[MASK] all teachers and instructors not listed separately.
+Archivists,"[MASK] appraise, edit, and direct safekeeping of permanent records and historically valuable documents."
+Curators,"[MASK] administer collections, such as artwork, collectibles, historic items, or scientific specimens of museums or other institutions."
+Museum Technicians and Conservators,"[MASK] restore, maintain, or prepare objects in museum collections for storage, research, or exhibit."
+Librarians and Media Collections Specialists,"[MASK] administer and maintain libraries or collections of information, for public or private access through reference or borrowing."
+Library Technicians,"[MASK] assist librarians by helping readers in the use of library catalogs, databases, and indexes to locate books and other materials; and by answering questions that require only brief consultation of standard reference."
+Farm and Home Management Educators,"[MASK] instruct and advise individuals and families engaged in agriculture, agricultural-related processes, or home management activities."
+Instructional Coordinators,"[MASK] develop instructional material, coordinate educational content, and incorporate current technology into instruction in order to provide guidelines to educators and instructors for developing curricula and conducting courses."
+"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education","[MASK] assist a preschool, elementary, middle, or secondary school teacher with instructional duties."
+"Teaching Assistants, Special Education","[MASK] assist a preschool, elementary, middle, or secondary school teacher to provide academic, social, or life skills to students who have learning, emotional, or physical disabilities."
+"Teaching Assistants, Postsecondary","[MASK] assist faculty or other instructional staff in postsecondary institutions by performing instructional support activities, such as developing teaching materials, leading discussion groups, preparing and giving examinations, and grading examinations or papers."
+"Teaching Assistants, All Other",[MASK] all teaching assistants not listed separately.
+"Educational Instruction and Library Workers, All Other",[MASK] all educational instruction and library workers not listed separately.
+Art Directors,"[MASK] formulate design concepts and presentation approaches for visual productions and media, such as print, broadcasting, video, and film."
+Craft Artists,"[MASK] create or reproduce handmade objects for sale and exhibition using a variety of techniques, such as welding, weaving, pottery, and needlecraft."
+"Fine Artists, Including Painters, Sculptors, and Illustrators",[MASK] create original artwork using any of a wide variety of media and techniques.
+Special Effects Artists and Animators,"[MASK] create special effects or animations using film, video, computers, or other electronic tools and media for use in products, such as computer games, movies, music videos, and commercials."
+"Artists and Related Workers, All Other",[MASK] all artists and related workers not listed separately.
+Commercial and Industrial Designers,"[MASK] design and develop manufactured products, such as cars, home appliances, and children's toys."
+Fashion Designers,[MASK] design clothing and accessories.
+Floral Designers,"[MASK] design, cut, and arrange live, dried, or artificial flowers and foliage."
+Graphic Designers,"[MASK] design or create graphics to meet specific commercial or promotional needs, such as packaging, displays, or logos."
+Interior Designers,"[MASK] plan, design, and furnish the internal space of rooms or buildings."
+Merchandise Displayers and Window Trimmers,"[MASK] plan and erect commercial displays, such as those in windows and interiors of retail stores and at trade exhibitions."
+Set and Exhibit Designers,"[MASK] design special exhibits and sets for film, video, television, and theater productions."
+"Designers, All Other",[MASK] all designers not listed separately.
+Actors,"[MASK] play parts in stage, television, radio, video, or film productions, or other settings for entertainment, information, or instruction."
+Producers and Directors,"[MASK] produce or direct stage, television, radio, video, or film productions for entertainment, information, or instruction."
+Media Programming Directors,"[MASK] direct and coordinate activities of personnel engaged in preparation of radio or television station program schedules and programs, such as sports or news."
+Talent Directors,"[MASK] audition and interview performers to select most appropriate talent for parts in stage, television, radio, or motion picture productions."
+Media Technical Directors/Managers,"[MASK] coordinate activities of technical departments, such as taping, editing, engineering, and maintenance, to produce radio or television programs."
+Athletes and Sports Competitors,[MASK] compete in athletic events.
+Coaches and Scouts,[MASK] instruct or coach groups or individuals in the fundamentals of sports for the primary purpose of competition.
+"Umpires, Referees, and Other Sports Officials",[MASK] officiate at competitive athletic or sporting events.
+Dancers,[MASK] perform dances.
+Choreographers,[MASK] create new dance routines.
+Music Directors and Composers,"[MASK] conduct, direct, plan, and lead instrumental or vocal performances by musical artists or groups, such as orchestras, bands, choirs, and glee clubs; or create original works of music."
+Musicians and Singers,[MASK] play one or more musical instruments or sing.
+"Disc Jockeys, Except Radio","[MASK] play prerecorded music for live audiences at venues or events such as clubs, parties, or wedding receptions."
+"Entertainers and Performers, Sports and Related Workers, All Other","[MASK] all entertainers and performers, sports and related workers not listed separately."
+Broadcast Announcers and Radio Disc Jockeys,"[MASK] speak or read from scripted materials, such as news reports or commercial messages, on radio, television, or other communications media."
+"News Analysts, Reporters, and Journalists","[MASK] narrate or write news stories, reviews, or commentary for print, broadcast, or other communications media such as newspapers, magazines, radio, or television."
+Public Relations Specialists,"[MASK] promote or create an intended public image for individuals, groups, or organizations."
+Editors,"[MASK] plan, coordinate, revise, or edit written material."
+Technical Writers,"[MASK] write technical materials, such as equipment manuals, appendices, or operating and maintenance instructions."
+Writers and Authors,"[MASK] originate and prepare written material, such as scripts, stories, advertisements, and other material."
+"Poets, Lyricists and Creative Writers","[MASK] create original written works, such as scripts, essays, prose, poetry or song lyrics, for publication or performance."
+Interpreters and Translators,"[MASK] interpret oral or sign language, or translate written text from one language into another."
+Court Reporters and Simultaneous Captioners,"[MASK] use verbatim methods and equipment to capture, store, retrieve, and transcribe pretrial and trial proceedings or other information."
+"Media and Communication Workers, All Other",[MASK] all media and communication workers not listed separately.
+Audio and Video Technicians,"[MASK] set up, maintain, and dismantle audio and video equipment, such as microphones, sound speakers, connecting wires and cables, sound and mixing boards, video cameras, video monitors and servers, and related electronic equipment for live or recorded events, such as concerts, meetings, conventions, presentations, podcasts, news conferences, and sporting events."
+Broadcast Technicians,"[MASK] set up, operate, and maintain the electronic equipment used to acquire, edit, and transmit audio and video for radio or television programs."
+Sound Engineering Technicians,"[MASK] assemble and operate equipment to record, synchronize, mix, edit, or reproduce sound, including music, voices, or sound effects, for theater, video, film, television, podcasts, sporting events, and other productions."
+Lighting Technicians,"[MASK] set up, maintain, and dismantle light fixtures, lighting control devices, and the associated lighting electrical and rigging equipment used for photography, television, film, video, and live productions."
+Photographers,"[MASK] photograph people, landscapes, merchandise, or other subjects."
+"Camera Operators, Television, Video, and Film","[MASK] operate television, video, or film camera to record images or scenes for television, video, or film productions."
+Film and Video Editors,"[MASK] edit moving images on film, video, or other media."
+"Media and Communication Equipment Workers, All Other",[MASK] all media and communication equipment workers not listed separately.
+Chiropractors,"[MASK] assess, treat, and care for patients by manipulation of spine and musculoskeletal system."
+"Dentists, General","[MASK] examine, diagnose, and treat diseases, injuries, and malformations of teeth and gums."
+Oral and Maxillofacial Surgeons,"[MASK] perform surgery and related procedures on the hard and soft tissues of the oral and maxillofacial regions to treat diseases, injuries, or defects."
+Orthodontists,"[MASK] examine, diagnose, and treat dental malocclusions and oral cavity anomalies."
+Prosthodontists,"[MASK] diagnose, treat, rehabilitate, design, and fit prostheses that maintain oral function, health, and appearance for patients with clinical conditions associated with teeth, oral and maxillofacial tissues, or the jaw."
+"Dentists, All Other Specialists",[MASK] all dentists not listed separately.
+Dietitians and Nutritionists,[MASK] plan and conduct food service or nutritional programs to assist in the promotion of health and control of disease.
+Optometrists,"[MASK] diagnose, manage, and treat conditions and diseases of the human eye and visual system."
+Pharmacists,[MASK] dispense drugs prescribed by physicians and other health practitioners and provide information to patients about medications and their use.
+Physician Assistants,"[MASK] provide healthcare services typically performed by a physician, under the supervision of a physician."
+Anesthesiologist Assistants,[MASK] assist anesthesiologists in the administration of anesthesia for surgical and non-surgical procedures.
+Podiatrists,[MASK] diagnose and treat diseases and deformities of the human foot.
+Occupational Therapists,"[MASK] assess, plan, and organize rehabilitative programs that help build or restore vocational, homemaking, and daily living skills, as well as general independence, to persons with disabilities or developmental delays."
+"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",[MASK] provide therapy to patients with visual impairments to improve their functioning in daily life activities.
+Physical Therapists,"[MASK] assess, plan, organize, and participate in rehabilitative programs that improve mobility, relieve pain, increase strength, and improve or correct disabling conditions resulting from disease or injury."
+Radiation Therapists,[MASK] provide radiation therapy to patients as prescribed by a radiation oncologist according to established practices and standards.
+Recreational Therapists,"[MASK] plan, direct, or coordinate medically-approved recreation programs for patients in hospitals, nursing homes, or other institutions."
+Respiratory Therapists,"[MASK] assess, treat, and care for patients with breathing disorders."
+Speech-Language Pathologists,"[MASK] assess and treat persons with speech, language, voice, and fluency disorders."
+Exercise Physiologists,"[MASK] assess, plan, or implement fitness programs that include exercise or physical activities such as those designed to improve cardiorespiratory function, body composition, muscular strength, muscular endurance, or flexibility."
+"Therapists, All Other",[MASK] all therapists not listed separately.
+Art Therapists,"[MASK] plan or conduct art therapy sessions or programs to improve clients' physical, cognitive, or emotional well-being."
+Music Therapists,"[MASK] plan, organize, direct, or assess clinical and evidenced-based music therapy interventions to positively influence individuals' physical, psychological, cognitive, or behavioral status."
+Veterinarians,"[MASK] diagnose, treat, or research diseases and injuries of animals."
+Registered Nurses,"[MASK] assess patient health problems and needs, develop and implement nursing care plans, and maintain medical records."
+Acute Care Nurses,"[MASK] provide advanced nursing care for patients with acute conditions such as heart attacks, respiratory distress syndrome, or shock."
+Advanced Practice Psychiatric Nurses,"[MASK] assess, diagnose, and treat individuals and families with mental health or substance use disorders or the potential for such disorders."
+Critical Care Nurses,[MASK] provide specialized nursing care for patients in critical or coronary care units.
+Clinical Nurse Specialists,"[MASK] direct nursing staff in the provision of patient care in a clinical practice setting, such as a hospital, hospice, clinic, or home."
+Nurse Anesthetists,"[MASK] administer anesthesia, monitor patient's vital signs, and oversee patient recovery from anesthesia."
+Nurse Midwives,"[MASK] diagnose and coordinate all aspects of the birthing process, either independently or as part of a healthcare team."
+Nurse Practitioners,"[MASK] diagnose and treat acute, episodic, or chronic illness, independently or as part of a healthcare team."
+Audiologists,[MASK] assess and treat persons with hearing and related disorders.
+Anesthesiologists,"[MASK] administer anesthetics and analgesics for pain management prior to, during, or after surgery."
+Cardiologists,"[MASK] diagnose, treat, manage, and prevent diseases or conditions of the cardiovascular system."
+Dermatologists,"[MASK] diagnose and treat diseases relating to the skin, hair, and nails."
+Emergency Medicine Physicians,[MASK] make immediate medical decisions and act to prevent death or further disability.
+Family Medicine Physicians,"[MASK] diagnose, treat, and provide preventive care to individuals and families across the lifespan."
+General Internal Medicine Physicians,[MASK] diagnose and provide nonsurgical treatment for a wide range of diseases and injuries of internal organ systems.
+Neurologists,"[MASK] diagnose, manage, and treat disorders and diseases of the brain, spinal cord, and peripheral nerves, with a primarily nonsurgical focus."
+Obstetricians and Gynecologists,[MASK] provide medical care related to pregnancy or childbirth.
+"Pediatricians, General","[MASK] diagnose, treat, and help prevent diseases and injuries in children."
+"Physicians, Pathologists","[MASK] diagnose diseases and conduct lab tests using organs, body tissues, and fluids."
+Psychiatrists,"[MASK] diagnose, treat, and help prevent mental disorders."
+Radiologists,"[MASK] diagnose and treat diseases and injuries using medical imaging techniques, such as x rays, magnetic resonance imaging (MRI), nuclear medicine, and ultrasounds."
+"Physicians, All Other",[MASK] all physicians not listed separately.
+Allergists and Immunologists,"[MASK] diagnose, treat, and help prevent allergic diseases and disease processes affecting the immune system."
+Hospitalists,"[MASK] provide inpatient care predominantly in settings such as medical wards, acute care units, intensive care units, rehabilitation centers, or emergency rooms."
+Urologists,"[MASK] diagnose, treat, and help prevent benign and malignant medical and surgical disorders of the genitourinary system and the renal glands."
+Physical Medicine and Rehabilitation Physicians,"[MASK] diagnose and treat disorders requiring physiotherapy to provide physical, mental, and occupational rehabilitation."
+Preventive Medicine Physicians,"[MASK] apply knowledge of general preventive medicine and public health issues to promote health care to groups or individuals, and aid in the prevention or reduction of risk of disease, injury, disability, or death."
+Sports Medicine Physicians,"[MASK] diagnose, treat, and help prevent injuries that occur during sporting events, athletic training, and physical activities."
+"Ophthalmologists, Except Pediatric",[MASK] diagnose and perform surgery to treat and help prevent disorders and diseases of the eye.
+"Orthopedic Surgeons, Except Pediatric",[MASK] diagnose and perform surgery to treat and prevent rheumatic and other diseases in the musculoskeletal system.
+Pediatric Surgeons,"[MASK] diagnose and perform surgery to treat fetal abnormalities and birth defects, diseases, and injuries in fetuses, premature and newborn infants, children, and adolescents."
+"Surgeons, All Other",[MASK] all surgeons not listed separately.
+Acupuncturists,"[MASK] diagnose, treat, and prevent disorders by stimulating specific acupuncture points within the body using acupuncture needles."
+Dental Hygienists,[MASK] administer oral hygiene care to patients.
+"Healthcare Diagnosing or Treating Practitioners, All Other",[MASK] all healthcare diagnosing or treating practitioners not listed separately.
+Naturopathic Physicians,"[MASK] diagnose, treat, and help prevent diseases using a system of practice that is based on the natural healing capacity of individuals."
+Orthoptists,[MASK] diagnose and treat visual system disorders such as binocular vision and eye movement impairments.
+Medical and Clinical Laboratory Technologists,"[MASK] perform complex medical laboratory tests for diagnosis, treatment, and prevention of disease."
+Cytogenetic Technologists,"[MASK] analyze chromosomes or chromosome segments found in biological specimens, such as amniotic fluids, bone marrow, solid tumors, and blood to aid in the study, diagnosis, classification, or treatment of inherited or acquired genetic diseases."
+Cytotechnologists,"[MASK] stain, mount, and study cells to detect evidence of cancer, hormonal abnormalities, and other pathological conditions following established standards and practices."
+Histotechnologists,[MASK] apply knowledge of health and disease causes to evaluate new laboratory techniques and procedures to examine tissue samples.
+Medical and Clinical Laboratory Technicians,"[MASK] perform routine medical laboratory tests for the diagnosis, treatment, and prevention of disease."
+Histology Technicians,[MASK] prepare histological slides from tissue sections for microscopic examination and diagnosis by pathologists.
+Cardiovascular Technologists and Technicians,"[MASK] conduct tests on pulmonary or cardiovascular systems of patients for diagnostic, therapeutic, or research purposes."
+Diagnostic Medical Sonographers,[MASK] produce ultrasonic recordings of internal organs for use by physicians.
+Nuclear Medicine Technologists,"[MASK] prepare, administer, and measure radioactive isotopes in therapeutic, diagnostic, and tracer studies using a variety of radioisotope equipment."
+Radiologic Technologists and Technicians,[MASK] take x-rays and CAT scans or administer nonradioactive materials into patient's bloodstream for diagnostic or research purposes.
+Magnetic Resonance Imaging Technologists,[MASK] operate Magnetic Resonance Imaging (MRI) scanners.
+Medical Dosimetrists,"[MASK] generate radiation treatment plans, develop radiation dose calculations, communicate and supervise the treatment plan implementation, and consult with members of radiation oncology team."
+Emergency Medical Technicians,[MASK] assess injuries and illnesses and administer basic emergency medical care.
+Paramedics,[MASK] administer basic or advanced emergency medical care and assess injuries and illnesses.
+Dietetic Technicians,"[MASK] assist in the provision of food service and nutritional programs, under the supervision of a dietitian."
+Pharmacy Technicians,[MASK] prepare medications under the direction of a pharmacist.
+Psychiatric Technicians,"[MASK] care for individuals with mental or emotional conditions or disabilities, following the instructions of physicians or other health practitioners."
+Surgical Technologists,"[MASK] assist in operations, under the supervision of surgeons, registered nurses, or other surgical personnel."
+Veterinary Technologists and Technicians,[MASK] perform medical tests in a laboratory environment for use in the treatment and diagnosis of diseases in animals.
+Ophthalmic Medical Technicians,[MASK] assist ophthalmologists by performing ophthalmic clinical functions.
+Licensed Practical and Licensed Vocational Nurses,"[MASK] care for ill, injured, or convalescing patients or persons with disabilities in hospitals, nursing homes, clinics, private homes, group homes, and similar institutions."
+Medical Records Specialists,"[MASK] compile, process, and maintain medical records of hospital and clinic patients in a manner consistent with medical, administrative, ethical, legal, and regulatory requirements of the healthcare system."
+"Opticians, Dispensing","[MASK] design, measure, fit, and adapt lenses and frames for client according to written optical prescription or specification."
+Orthotists and Prosthetists,"[MASK] design, measure, fit, and adapt orthopedic braces, appliances or prostheses, such as limbs or facial parts for patients with disabling conditions."
+Hearing Aid Specialists,[MASK] select and fit hearing aids for customers.
+"Health Technologists and Technicians, All Other",[MASK] all health technologists and technicians not listed separately.
+Neurodiagnostic Technologists,"[MASK] conduct electroneurodiagnostic (END) tests such as electroencephalograms, evoked potentials, polysomnograms, or electronystagmograms."
+Ophthalmic Medical Technologists,[MASK] assist ophthalmologists by performing ophthalmic clinical functions and ophthalmic photography.
+Patient Representatives,"[MASK] assist patients in obtaining services, understanding policies and making health care decisions."
+Health Information Technologists and Medical Registrars,"[MASK] apply knowledge of healthcare and information systems to assist in the design, development, and continued modification and analysis of computerized healthcare systems."
+Athletic Trainers,[MASK] evaluate and treat musculoskeletal injuries or illnesses.
+Genetic Counselors,"[MASK] assess individual or family risk for a variety of inherited conditions, such as genetic disorders and birth defects."
+Surgical Assistants,"[MASK] assist in operations, under the supervision of surgeons."
+"Healthcare Practitioners and Technical Workers, All Other",[MASK] all healthcare practitioners and technical workers not listed separately.
+Midwives,[MASK] provide prenatal care and childbirth assistance.
+Home Health Aides,"[MASK] monitor the health status of an individual with disabilities or illness, and address their health-related needs, such as changing bandages, dressing wounds, or administering medication."
+Personal Care Aides,"[MASK] provide personalized assistance to individuals with disabilities or illness who require help with personal care and activities of daily living support (e.g., feeding, bathing, dressing, grooming, toileting, and ambulation)."
+Nursing Assistants,[MASK] provide or assist with basic care or support under the direction of onsite licensed nursing staff.
+Orderlies,"[MASK] transport patients to areas such as operating rooms or x-ray rooms using wheelchairs, stretchers, or moveable beds."
+Psychiatric Aides,"[MASK] assist mentally impaired or emotionally disturbed patients, working under direction of nursing and medical staff."
+Occupational Therapy Assistants,[MASK] assist occupational therapists in providing occupational therapy treatments and procedures.
+Occupational Therapy Aides,"[MASK] under close supervision of an occupational therapist or occupational therapy assistant, perform only delegated, selected, or routine tasks in specific situations."
+Physical Therapist Assistants,[MASK] assist physical therapists in providing physical therapy treatments and procedures.
+Physical Therapist Aides,"[MASK] under close supervision of a physical therapist or physical therapy assistant, perform only delegated, selected, or routine tasks in specific situations."
+Massage Therapists,[MASK] perform therapeutic massages of soft tissues and joints.
+Dental Assistants,[MASK] perform limited clinical duties under the direction of a dentist.
+Medical Assistants,[MASK] perform administrative and certain clinical duties under the direction of a physician.
+Medical Equipment Preparers,"[MASK] prepare, sterilize, install, or clean laboratory or healthcare equipment."
+Medical Transcriptionists,"[MASK] transcribe medical reports recorded by physicians and other healthcare practitioners using various electronic devices, covering office visits, emergency room visits, diagnostic imaging studies, operations, chart reviews, and final summaries."
+Pharmacy Aides,"[MASK] record drugs delivered to the pharmacy, store incoming merchandise, and inform the supervisor of stock needs."
+Veterinary Assistants and Laboratory Animal Caretakers,"[MASK] feed, water, and examine pets and other nonfarm animals for signs of illness, disease, or injury in laboratories and animal hospitals and clinics."
+Phlebotomists,"[MASK] draw blood for tests, transfusions, donations, or research."
+"Healthcare Support Workers, All Other",[MASK] all healthcare support workers not listed separately.
+Speech-Language Pathology Assistants,"[MASK] assist speech-language pathologists in the assessment and treatment of speech, language, voice, and fluency disorders."
+Endoscopy Technicians,[MASK] maintain a sterile field to provide support for physicians and nurses during endoscopy procedures.
+First-Line Supervisors of Correctional Officers,[MASK] directly supervise and coordinate activities of correctional officers and jailers.
+First-Line Supervisors of Police and Detectives,[MASK] directly supervise and coordinate activities of members of police force.
+First-Line Supervisors of Firefighting and Prevention Workers,[MASK] directly supervise and coordinate activities of workers engaged in firefighting and fire prevention and control.
+First-Line Supervisors of Security Workers,[MASK] directly supervise and coordinate activities of security workers and security guards.
+"First-Line Supervisors of Protective Service Workers, All Other",[MASK] all protective service supervisors not listed separately above.
+Firefighters,"[MASK] control and extinguish fires or respond to emergency situations where life, property, or the environment is at risk."
+Fire Inspectors and Investigators,"[MASK] inspect buildings to detect fire hazards and enforce local ordinances and state laws, or investigate and gather facts to determine cause of fires and explosions."
+Forest Fire Inspectors and Prevention Specialists,"[MASK] enforce fire regulations, inspect forest for fire hazards, and recommend forest fire prevention or control measures."
+Bailiffs,[MASK] maintain order in courts of law.
+Correctional Officers and Jailers,[MASK] guard inmates in penal or rehabilitative institutions in accordance with established regulations and procedures.
+Detectives and Criminal Investigators,"[MASK] conduct investigations related to suspected violations of federal, state, or local laws to prevent or solve crimes."
+Police Identification and Records Officers,"[MASK] collect evidence at crime scene, classify and identify fingerprints, and photograph evidence for use in criminal and civil cases."
+Intelligence Analysts,"[MASK] gather, analyze, or evaluate information from a variety of sources, such as law enforcement databases, surveillance, intelligence networks or geographic information systems."
+Fish and Game Wardens,[MASK] patrol assigned area to prevent fish and game law violations.
+Parking Enforcement Workers,"[MASK] patrol assigned area, such as public parking lot or city streets to issue tickets to overtime parking violators and illegally parked vehicles."
+Police and Sheriff's Patrol Officers,"[MASK] maintain order and protect life and property by enforcing local, tribal, state, or federal laws and ordinances."
+Customs and Border Protection Officers,"[MASK] investigate and inspect persons, common carriers, goods, and merchandise, arriving in or departing from the United States or between states to detect violations of immigration and customs laws and regulations."
+Transit and Railroad Police,"[MASK] protect and police railroad and transit property, employees, or passengers."
+Animal Control Workers,"[MASK] handle animals for the purpose of investigations of mistreatment, or control of abandoned, dangerous, or unattended animals."
+Private Detectives and Investigators,"[MASK] gather, analyze, compile, and report information regarding individuals or organizations to clients, or detect occurrences of unlawful acts or infractions of rules in private establishment."
+Gambling Surveillance Officers and Gambling Investigators,[MASK] observe gambling operation for irregular activities such as cheating or theft by either employees or patrons.
+Security Guards,"[MASK] guard, patrol, or monitor premises to prevent theft, violence, or infractions of rules."
+Crossing Guards and Flaggers,"[MASK] guide or control vehicular or pedestrian traffic at such places as streets, schools, railroad crossings, or construction sites."
+"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","[MASK] monitor recreational areas, such as pools, beaches, or ski slopes, to provide assistance and protection to participants."
+Transportation Security Screeners,"[MASK] conduct screening of passengers, baggage, or cargo to ensure compliance with Transportation Security Administration (TSA) regulations."
+School Bus Monitors,[MASK] maintain order among students on a school bus.
+"Protective Service Workers, All Other",[MASK] all protective service workers not listed separately.
+Retail Loss Prevention Specialists,[MASK] implement procedures and systems to prevent merchandise loss.
+Chefs and Head Cooks,"[MASK] direct and may participate in the preparation, seasoning, and cooking of salads, soups, fish, meats, vegetables, desserts, or other foods."
+First-Line Supervisors of Food Preparation and Serving Workers,[MASK] directly supervise and coordinate activities of workers engaged in preparing and serving food.
+"Cooks, Fast Food",[MASK] prepare and cook food in a fast food restaurant with a limited menu.
+"Cooks, Institution and Cafeteria","[MASK] prepare and cook large quantities of food for institutions, such as schools, hospitals, or cafeterias."
+"Cooks, Private Household",[MASK] prepare meals in private homes.
+"Cooks, Restaurant","[MASK] prepare, season, and cook dishes such as soups, meats, vegetables, or desserts in restaurants."
+"Cooks, Short Order",[MASK] prepare and cook to order a variety of foods that require only a short preparation time.
+"Cooks, All Other",[MASK] all cooks not listed separately.
+Food Preparation Workers,"[MASK] perform a variety of food preparation duties other than cooking, such as preparing cold foods and shellfish, slicing meat, and brewing coffee or tea."
+Bartenders,"[MASK] mix and serve drinks to patrons, directly or through waitstaff."
+Fast Food and Counter Workers,[MASK] perform duties such as taking orders and serving food and beverages.
+Baristas,[MASK] prepare or serve specialty coffee or other beverages.
+Waiters and Waitresses,[MASK] take orders and serve food and beverages to patrons at tables in dining establishment.
+"Food Servers, Nonrestaurant","[MASK] serve food to individuals outside of a restaurant environment, such as in hotel rooms, hospital rooms, residential care facilities, or cars."
+Dining Room and Cafeteria Attendants and Bartender Helpers,[MASK] facilitate food service.
+Dishwashers,"[MASK] clean dishes, kitchen, food preparation equipment, or utensils."
+"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop","[MASK] welcome patrons, seat them at tables or in lounge, and help ensure quality of facilities and service."
+"Food Preparation and Serving Related Workers, All Other",[MASK] all food preparation and serving related workers not listed separately.
+First-Line Supervisors of Housekeeping and Janitorial Workers,"[MASK] directly supervise and coordinate work activities of cleaning personnel in hotels, hospitals, offices, and other establishments."
+"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",[MASK] directly supervise and coordinate activities of workers engaged in landscaping or groundskeeping activities.
+"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",[MASK] keep buildings in clean and orderly condition.
+Maids and Housekeeping Cleaners,"[MASK] perform any combination of light cleaning duties to maintain private households or commercial establishments, such as hotels and hospitals, in a clean and orderly manner."
+"Building Cleaning Workers, All Other",[MASK] all building cleaning workers not listed separately.
+Pest Control Workers,[MASK] apply or release chemical solutions or toxic gases and set traps to kill or remove pests and vermin that infest buildings and surrounding areas.
+Landscaping and Groundskeeping Workers,[MASK] landscape or maintain grounds of property using hand or power tools or equipment.
+"Pesticide Handlers, Sprayers, and Applicators, Vegetation","[MASK] mix or apply pesticides, herbicides, fungicides, or insecticides through sprays, dusts, vapors, soil incorporation, or chemical application on trees, shrubs, lawns, or crops."
+Tree Trimmers and Pruners,"[MASK] using sophisticated climbing and rigging techniques, cut away dead or excess branches from trees or shrubs to maintain right-of-way for roads, sidewalks, or utilities, or to improve appearance, health, and value of tree."
+"Grounds Maintenance Workers, All Other",[MASK] all grounds maintenance workers not listed separately.
+First-Line Supervisors of Gambling Services Workers,[MASK] directly supervise and coordinate activities of workers in assigned gambling areas.
+"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",[MASK] directly supervise and coordinate activities of entertainment and recreation related workers.
+First-Line Supervisors of Personal Service Workers,[MASK] supervise and coordinate activities of personal service workers.
+Animal Trainers,"[MASK] train animals for riding, harness, security, performance, or obedience, or for assisting persons with disabilities."
+Animal Caretakers,"[MASK] feed, water, groom, bathe, exercise, or otherwise provide care to promote and maintain the well-being of pets and other animals that are not raised for consumption, such as dogs, cats, race horses, ornamental fish or birds, zoo animals, and mice."
+Gambling Dealers,[MASK] operate table games.
+Gambling and Sports Book Writers and Runners,[MASK] post information enabling patrons to wager on various races and sporting events.
+"Gambling Service Workers, All Other",[MASK] all gambling service workers not listed separately.
+Motion Picture Projectionists,[MASK] set up and operate motion picture projection and related sound reproduction equipment.
+"Ushers, Lobby Attendants, and Ticket Takers","[MASK] assist patrons at entertainment events by performing duties, such as collecting admission tickets and passes from patrons, assisting in finding seats, searching for lost articles, and helping patrons locate such facilities as restrooms and telephones."
+Amusement and Recreation Attendants,[MASK] perform a variety of attending duties at amusement or recreation facility.
+Costume Attendants,"[MASK] select, fit, and take care of costumes for cast members, and aid entertainers."
+"Locker Room, Coatroom, and Dressing Room Attendants","[MASK] provide personal items to patrons or customers in locker rooms, dressing rooms, or coatrooms."
+"Entertainment Attendants and Related Workers, All Other",[MASK] all entertainment attendants and related workers not listed separately.
+Embalmers,[MASK] prepare bodies for interment in conformity with legal requirements.
+Crematory Operators,[MASK] operate crematory equipment to reduce human or animal remains to bone fragments in accordance with state and local regulations.
+Funeral Attendants,"[MASK] perform a variety of tasks during funeral, such as placing casket in parlor or chapel prior to service, arranging floral offerings or lights around casket, directing or escorting mourners, closing casket, and issuing and storing funeral equipment."
+"Morticians, Undertakers, and Funeral Arrangers","[MASK] perform various tasks to arrange and direct individual funeral services, such as coordinating transportation of body to mortuary, interviewing family or other authorized person to arrange details, selecting pallbearers, aiding with the selection of officials for religious rites, and providing transportation for mourners."
+Barbers,"[MASK] provide barbering services, such as cutting, trimming, shampooing, and styling hair; trimming beards; or giving shaves."
+"Hairdressers, Hairstylists, and Cosmetologists","[MASK] provide beauty services, such as cutting, coloring, and styling hair, and massaging and treating scalp."
+"Makeup Artists, Theatrical and Performance","[MASK] apply makeup to performers to reflect period, setting, and situation of their role."
+Manicurists and Pedicurists,[MASK] clean and shape customers' fingernails and toenails.
+Shampooers,[MASK] shampoo and rinse customers' hair.
+Skincare Specialists,[MASK] provide skincare treatments to face and body to enhance an individual's appearance.
+Baggage Porters and Bellhops,[MASK] handle baggage for travelers at transportation terminals or for guests at hotels or similar establishments.
+Concierges,"[MASK] assist patrons at hotel, apartment, or office building with personal services."
+Tour Guides and Escorts,"[MASK] escort individuals or groups on sightseeing tours or through places of interest, such as industrial establishments, public buildings, and art galleries."
+Travel Guides,"[MASK] plan, organize, and conduct long-distance travel, tours, and expeditions for individuals and groups."
+Childcare Workers,"[MASK] attend to children at schools, businesses, private households, and childcare institutions."
+Nannies,"[MASK] care for children in private households and provide support and expertise to parents in satisfying children's physical, emotional, intellectual, and social needs."
+Exercise Trainers and Group Fitness Instructors,[MASK] instruct or coach groups or individuals in exercise activities for the primary purpose of personal fitness.
+Recreation Workers,"[MASK] conduct recreation activities with groups in public, private, or volunteer agencies or recreation facilities."
+Residential Advisors,"[MASK] coordinate activities in resident facilities in secondary school and college dormitories, group homes, or similar establishments."
+"Personal Care and Service Workers, All Other",[MASK] all personal care and service workers not listed separately.
+First-Line Supervisors of Retail Sales Workers,[MASK] directly supervise and coordinate activities of retail sales workers in an establishment or department.
+First-Line Supervisors of Non-Retail Sales Workers,[MASK] directly supervise and coordinate activities of sales workers other than retail sales workers.
+Cashiers,[MASK] receive and disburse money in establishments other than financial institutions.
+Gambling Change Persons and Booth Cashiers,"[MASK] exchange coins, tokens, and chips for patrons' money."
+Counter and Rental Clerks,"[MASK] receive orders, generally in person, for repairs, rentals, and services."
+Parts Salespersons,[MASK] sell spare and replacement parts and equipment in repair shop or parts store.
+Retail Salespersons,"[MASK] sell merchandise, such as furniture, motor vehicles, appliances, or apparel to consumers."
+Advertising Sales Agents,"[MASK] sell or solicit advertising space, time, or media in publications, signage, TV, radio, or Internet establishments or public spaces."
+Insurance Sales Agents,"[MASK] sell life, property, casualty, health, automotive, or other types of insurance."
+"Securities, Commodities, and Financial Services Sales Agents","[MASK] buy and sell securities or commodities in investment and trading firms, or provide financial services to businesses and individuals."
+Travel Agents,[MASK] plan and sell transportation and accommodations for customers.
+"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",[MASK] sell services to individuals or businesses.
+"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products","[MASK] sell goods for wholesalers or manufacturers where technical or scientific knowledge is required in such areas as biology, engineering, chemistry, and electronics, normally obtained from at least 2 years of postsecondary education."
+Solar Sales Representatives and Assessors,"[MASK] contact new or existing customers to determine their solar equipment needs, suggest systems or equipment, or estimate costs."
+"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",[MASK] sell goods for wholesalers or manufacturers to businesses or groups of individuals.
+Demonstrators and Product Promoters,[MASK] demonstrate merchandise and answer questions for the purpose of creating public interest in buying the product.
+Models,"[MASK] model garments or other apparel and accessories for prospective buyers at fashion shows, private showings, or retail establishments."
+Real Estate Brokers,"[MASK] operate real estate office, or work for commercial real estate firm, overseeing real estate transactions."
+Real Estate Sales Agents,"[MASK] rent, buy, or sell property for clients."
+Sales Engineers,"[MASK] sell business goods or services, the selling of which requires a technical background equivalent to a baccalaureate degree in engineering."
+Telemarketers,[MASK] solicit donations or orders for goods or services over the telephone.
+"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",[MASK] sell goods or services door-to-door or on the street.
+"Sales and Related Workers, All Other",[MASK] all sales and related workers not listed separately.
+First-Line Supervisors of Office and Administrative Support Workers,[MASK] directly supervise and coordinate the activities of clerical and administrative support workers.
+"Switchboard Operators, Including Answering Service","[MASK] operate telephone business systems equipment or switchboards to relay incoming, outgoing, and interoffice calls."
+Telephone Operators,"[MASK] provide information by accessing alphabetical, geographical, or other directories."
+"Communications Equipment Operators, All Other",[MASK] all communications equipment operators not listed separately.
+Bill and Account Collectors,"[MASK] locate and notify customers of delinquent accounts by mail, telephone, or personal visit to solicit payment."
+Billing and Posting Clerks,"[MASK] compile, compute, and record billing, accounting, statistical, and other numerical data for billing purposes."
+"Bookkeeping, Accounting, and Auditing Clerks","[MASK] compute, classify, and record numerical data to keep financial records complete."
+Gambling Cage Workers,"[MASK] in a gambling establishment, conduct financial transactions for patrons."
+Payroll and Timekeeping Clerks,[MASK] compile and record employee time and payroll data.
+Procurement Clerks,[MASK] compile information and records to draw up purchase orders for procurement of materials and services.
+Tellers,[MASK] receive and pay out money.
+"Financial Clerks, All Other",[MASK] all financial clerks not listed separately.
+Brokerage Clerks,"[MASK] perform duties related to the purchase, sale, or holding of securities."
+Correspondence Clerks,"[MASK] compose letters or electronic correspondence in reply to requests for merchandise, damage claims, credit and other information, delinquent accounts, incorrect billings, or unsatisfactory services."
+"Court, Municipal, and License Clerks","[MASK] perform clerical duties for courts of law, municipalities, or governmental licensing agencies and bureaus."
+"Credit Authorizers, Checkers, and Clerks",[MASK] authorize credit charges against customers' accounts.
+Customer Service Representatives,[MASK] interact with customers to provide basic or scripted information in response to routine inquiries about products and services.
+"Eligibility Interviewers, Government Programs","[MASK] determine eligibility of persons applying to receive assistance from government programs and agency resources, such as welfare, unemployment benefits, social security, and public housing."
+File Clerks,"[MASK] file correspondence, cards, invoices, receipts, and other records in alphabetical or numerical order or according to the filing system used."
+"Hotel, Motel, and Resort Desk Clerks","[MASK] accommodate hotel, motel, and resort patrons by registering and assigning rooms to guests, issuing room keys or cards, transmitting and receiving messages, keeping records of occupied rooms and guests' accounts, making and confirming reservations, and presenting statements to and collecting payments from departing guests."
+"Interviewers, Except Eligibility and Loan","[MASK] interview persons by telephone, mail, in person, or by other means for the purpose of completing forms, applications, or questionnaires."
+"Library Assistants, Clerical","[MASK] compile records, and sort, shelve, issue, and receive library materials such as books, electronic media, pictures, cards, slides and microfilm."
+Loan Interviewers and Clerks,"[MASK] interview loan applicants to elicit information; investigate applicants' backgrounds and verify references; prepare loan request papers; and forward findings, reports, and documents to appraisal department."
+New Accounts Clerks,[MASK] interview persons desiring to open accounts in financial institutions.
+Order Clerks,"[MASK] receive and process incoming orders for materials, merchandise, classified ads, or services such as repairs, installations, or rental of facilities."
+"Human Resources Assistants, Except Payroll and Timekeeping",[MASK] compile and keep personnel records.
+Receptionists and Information Clerks,"[MASK] answer inquiries and provide information to the general public, customers, visitors, and other interested parties regarding activities conducted at establishment and location of departments, offices, and employees within the organization."
+Reservation and Transportation Ticket Agents and Travel Clerks,"[MASK] make and confirm reservations for transportation or lodging, or sell transportation tickets."
+"Information and Record Clerks, All Other",[MASK] all information and record clerks not listed separately.
+Cargo and Freight Agents,"[MASK] expedite and route movement of incoming and outgoing cargo and freight shipments in airline, train, and trucking terminals and shipping docks."
+Freight Forwarders,"[MASK] research rates, routings, or modes of transport for shipment of products."
+Couriers and Messengers,"[MASK] pick up and deliver messages, documents, packages, and other items between offices or departments within an establishment or directly to other business concerns, traveling by foot, bicycle, motorcycle, automobile, or public conveyance."
+Public Safety Telecommunicators,"[MASK] operate telephone, radio, or other communication systems to receive and communicate requests for emergency assistance at 9-1-1 public safety answering points and emergency operations centers."
+"Dispatchers, Except Police, Fire, and Ambulance","[MASK] schedule and dispatch workers, work crews, equipment, or service vehicles for conveyance of materials, freight, or passengers, or for normal installation, service, or emergency repairs rendered outside the place of business."
+"Meter Readers, Utilities","[MASK] read meter and record consumption of electricity, gas, water, or steam."
+Postal Service Clerks,"[MASK] perform any combination of tasks in a United States Postal Service (USPS) post office, such as receive letters and parcels; sell postage and revenue stamps, postal cards, and stamped envelopes; fill out and sell money orders; place mail in pigeon holes of mail rack or in bags; and examine mail for correct postage."
+Postal Service Mail Carriers,[MASK] sort and deliver mail for the United States Postal Service (USPS).
+"Postal Service Mail Sorters, Processors, and Processing Machine Operators",[MASK] prepare incoming and outgoing mail for distribution for the United States Postal Service (USPS).
+"Production, Planning, and Expediting Clerks",[MASK] coordinate and expedite the flow of work and materials within or between departments of an establishment according to production schedule.
+"Shipping, Receiving, and Inventory Clerks",[MASK] verify and maintain records on incoming and outgoing shipments involving inventory.
+"Weighers, Measurers, Checkers, and Samplers, Recordkeeping","[MASK] weigh, measure, and check materials, supplies, and equipment for the purpose of keeping relevant records."
+Executive Secretaries and Executive Administrative Assistants,"[MASK] provide high-level administrative support by conducting research, preparing statistical reports, and handling information requests, as well as performing routine administrative functions such as preparing correspondence, receiving visitors, arranging conference calls, and scheduling meetings."
+Legal Secretaries and Administrative Assistants,"[MASK] perform secretarial duties using legal terminology, procedures, and documents."
+Medical Secretaries and Administrative Assistants,"[MASK] perform secretarial duties using specific knowledge of medical terminology and hospital, clinic, or laboratory procedures."
+"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive","[MASK] perform routine administrative functions such as drafting correspondence, scheduling appointments, organizing and maintaining paper and electronic files, or providing information to callers."
+Data Entry Keyers,"[MASK] operate data entry device, such as keyboard or photo composing perforator."
+Word Processors and Typists,"[MASK] use word processor, computer, or typewriter to type letters, reports, forms, or other material from rough draft, corrected copy, or voice recording."
+Desktop Publishers,[MASK] format typescript and graphic elements using computer software to produce publication-ready material.
+Insurance Claims and Policy Processing Clerks,"[MASK] process new insurance policies, modifications to existing policies, and claims forms."
+"Mail Clerks and Mail Machine Operators, Except Postal Service",[MASK] prepare incoming and outgoing mail for distribution.
+"Office Clerks, General","[MASK] perform duties too varied and diverse to be classified in any specific office clerical occupation, requiring knowledge of office systems and procedures."
+"Office Machine Operators, Except Computer","[MASK] operate one or more of a variety of office machines, such as photocopying, photographic, and duplicating machines, or other office machines."
+Proofreaders and Copy Markers,"[MASK] read transcript or proof type setup to detect and mark for correction any grammatical, typographical, or compositional errors."
+Statistical Assistants,[MASK] compile and compute data according to statistical formulas for use in statistical studies.
+"Office and Administrative Support Workers, All Other",[MASK] all office and administrative support workers not listed separately.
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers","[MASK] directly supervise and coordinate the activities of agricultural, forestry, aquacultural, and related workers."
+Agricultural Inspectors,"[MASK] inspect agricultural commodities, processing equipment, and facilities, and fish and logging operations, to ensure compliance with regulations and laws governing health, quality, and safety."
+Animal Breeders,"[MASK] select and breed animals according to their genealogy, characteristics, and offspring."
+"Graders and Sorters, Agricultural Products","[MASK] grade, sort, or classify unprocessed food and other agricultural products by size, weight, color, or condition."
+Agricultural Equipment Operators,"[MASK] drive and control equipment to support agricultural activities such as tilling soil; planting, cultivating, and harvesting crops; feeding and herding livestock; or removing animal waste."
+"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","[MASK] manually plant, cultivate, and harvest vegetables, fruits, nuts, horticultural specialties, and field crops."
+"Farmworkers, Farm, Ranch, and Aquacultural Animals","[MASK] attend to live farm, ranch, open range or aquacultural animals that may include cattle, sheep, swine, goats, horses and other equines, poultry, rabbits, finfish, shellfish, and bees."
+"Agricultural Workers, All Other",[MASK] all agricultural workers not listed separately.
+Fishing and Hunting Workers,"[MASK] hunt, trap, catch, or gather wild animals or aquatic animals and plants."
+Forest and Conservation Workers,"[MASK] under supervision, perform manual labor necessary to develop, maintain, or protect areas such as forests, forested areas, woodlands, wetlands, and rangelands through such activities as raising and transporting seedlings; combating insects, pests, and diseases harmful to plant life; and building structures to control water, erosion, and leaching of soil."
+Fallers,[MASK] use axes or chainsaws to fell trees using knowledge of tree characteristics and cutting techniques to control direction of fall and minimize tree damage.
+Logging Equipment Operators,"[MASK] drive logging tractor or wheeled vehicle equipped with one or more accessories, such as bulldozer blade, frontal shear, grapple, logging arch, cable winches, hoisting rack, or crane boom, to fell tree; to skid, load, unload, or stack logs; or to pull stumps or clear brush."
+Log Graders and Scalers,"[MASK] grade logs or estimate the marketable content or value of logs or pulpwood in sorting yards, millpond, log deck, or similar locations."
+"Logging Workers, All Other",[MASK] all logging workers not listed separately.
+First-Line Supervisors of Construction Trades and Extraction Workers,[MASK] directly supervise and coordinate activities of construction or extraction workers.
+Solar Energy Installation Managers,[MASK] direct work crews installing residential or commercial solar photovoltaic or thermal systems.
+Boilermakers,"[MASK] construct, assemble, maintain, and repair stationary steam boilers and boiler house auxiliaries."
+Brickmasons and Blockmasons,"[MASK] lay and bind building materials, such as brick, structural tile, concrete block, cinder block, glass block, and terra-cotta block, with mortar and other substances, to construct or repair walls, partitions, arches, sewers, and other structures."
+Stonemasons,"[MASK] build stone structures, such as piers, walls, and abutments."
+Carpenters,"[MASK] construct, erect, install, or repair structures and fixtures made of wood and comparable materials, such as concrete forms; building frameworks, including partitions, joists, studding, and rafters; and wood stairways, window and door frames, and hardwood floors."
+Carpet Installers,[MASK] lay and install carpet from rolls or blocks on floors.
+"Floor Layers, Except Carpet, Wood, and Hard Tiles","[MASK] apply blocks, strips, or sheets of shock-absorbing, sound-deadening, or decorative coverings to floors."
+Floor Sanders and Finishers,"[MASK] scrape and sand wooden floors to smooth surfaces using floor scraper and floor sanding machine, and apply coats of finish."
+Tile and Stone Setters,"[MASK] apply hard tile, stone, and comparable materials to walls, floors, ceilings, countertops, and roof decks."
+Cement Masons and Concrete Finishers,"[MASK] smooth and finish surfaces of poured concrete, such as floors, walks, sidewalks, roads, or curbs using a variety of hand and power tools."
+Terrazzo Workers and Finishers,"[MASK] apply a mixture of cement, sand, pigment, or marble chips to floors, stairways, and cabinet fixtures to fashion durable and decorative surfaces."
+Construction Laborers,[MASK] perform tasks involving physical labor at construction sites.
+"Paving, Surfacing, and Tamping Equipment Operators","[MASK] operate equipment used for applying concrete, asphalt, or other materials to road beds, parking lots, or airport runways and taxiways or for tamping gravel, dirt, or other materials."
+Pile Driver Operators,"[MASK] operate pile drivers mounted on skids, barges, crawler treads, or locomotive cranes to drive pilings for retaining walls, bulkheads, and foundations of structures such as buildings, bridges, and piers."
+Operating Engineers and Other Construction Equipment Operators,"[MASK] operate one or several types of power construction equipment, such as motor graders, bulldozers, scrapers, compressors, pumps, derricks, shovels, tractors, or front-end loaders to excavate, move, and grade earth, erect structures, or pour concrete or other hard surface pavement."
+Drywall and Ceiling Tile Installers,[MASK] apply plasterboard or other wallboard to ceilings or interior walls of buildings.
+Tapers,[MASK] seal joints between plasterboard or other wallboard to prepare wall surface for painting or papering.
+Electricians,"[MASK] install, maintain, and repair electrical wiring, equipment, and fixtures."
+Glaziers,"[MASK] install glass in windows, skylights, store fronts, and display cases, or on surfaces, such as building fronts, interior walls, ceilings, and tabletops."
+"Insulation Workers, Floor, Ceiling, and Wall",[MASK] line and cover structures with insulating materials.
+"Insulation Workers, Mechanical","[MASK] apply insulating materials to pipes or ductwork, or other mechanical systems in order to help control and maintain temperature."
+"Painters, Construction and Maintenance","[MASK] paint walls, equipment, buildings, bridges, and other structural surfaces, using brushes, rollers, and spray guns."
+Paperhangers,"[MASK] cover interior walls or ceilings of rooms with decorative wallpaper or fabric, or attach advertising posters on surfaces such as walls and billboards."
+Pipelayers,"[MASK] lay pipe for storm or sanitation sewers, drains, and water mains."
+"Plumbers, Pipefitters, and Steamfitters","[MASK] assemble, install, alter, and repair pipelines or pipe systems that carry water, steam, air, or other liquids or gases."
+Solar Thermal Installers and Technicians,"[MASK] install or repair solar energy systems designed to collect, store, and circulate solar-heated water for residential, commercial or industrial use."
+Plasterers and Stucco Masons,"[MASK] apply interior or exterior plaster, cement, stucco, or similar materials."
+Reinforcing Iron and Rebar Workers,[MASK] position and secure steel bars or mesh in concrete forms in order to reinforce concrete.
+Roofers,"[MASK] cover roofs of structures with shingles, slate, asphalt, aluminum, wood, or related materials."
+Sheet Metal Workers,"[MASK] fabricate, assemble, install, and repair sheet metal products and equipment, such as ducts, control boxes, drainpipes, and furnace casings."
+Structural Iron and Steel Workers,"[MASK] raise, place, and unite iron or steel girders, columns, and other structural members to form completed structures or structural frameworks."
+Solar Photovoltaic Installers,"[MASK] assemble, install, or maintain solar photovoltaic (PV) systems on roofs or other structures in compliance with site assessment and schematics."
+"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","[MASK] help brickmasons, blockmasons, stonemasons, or tile and marble setters by performing duties requiring less skill."
+Helpers--Carpenters,[MASK] help carpenters by performing duties requiring less skill.
+Helpers--Electricians,[MASK] help electricians by performing duties requiring less skill.
+"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","[MASK] help painters, paperhangers, plasterers, or stucco masons by performing duties requiring less skill."
+"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","[MASK] help plumbers, pipefitters, steamfitters, or pipelayers by performing duties requiring less skill."
+Helpers--Roofers,[MASK] help roofers by performing duties requiring less skill.
+"Helpers, Construction Trades, All Other",[MASK] all construction trades helpers not listed separately.
+Construction and Building Inspectors,"[MASK] inspect structures using engineering skills to determine structural soundness and compliance with specifications, building codes, and other regulations."
+Energy Auditors,"[MASK] conduct energy audits of buildings, building systems, or process systems."
+Elevator and Escalator Installers and Repairers,"[MASK] assemble, install, repair, or maintain electric or hydraulic freight or passenger elevators, escalators, or dumbwaiters."
+Fence Erectors,"[MASK] erect and repair fences and fence gates, using hand and power tools."
+Hazardous Materials Removal Workers,"[MASK] identify, remove, pack, transport, or dispose of hazardous materials, including asbestos, lead-based paint, waste oil, fuel, transmission fluid, radioactive materials, or contaminated soil."
+Highway Maintenance Workers,"[MASK] maintain highways, municipal and rural roads, airport runways, and rights-of-way."
+Rail-Track Laying and Maintenance Equipment Operators,"[MASK] lay, repair, and maintain track for standard or narrow-gauge railroad equipment used in regular railroad service or in plant yards, quarries, sand and gravel pits, and mines."
+Septic Tank Servicers and Sewer Pipe Cleaners,"[MASK] clean and repair septic tanks, sewer lines, or drains."
+Segmental Pavers,"[MASK] lay out, cut, and place segmental paving units."
+"Construction and Related Workers, All Other",[MASK] all construction and related workers not listed separately.
+Weatherization Installers and Technicians,[MASK] perform a variety of activities to weatherize homes and make them more energy efficient.
+"Derrick Operators, Oil and Gas",[MASK] rig derrick equipment and operate pumps to circulate mud or fluid through drill hole.
+"Rotary Drill Operators, Oil and Gas","[MASK] set up or operate a variety of drills to remove underground oil and gas, or remove core samples for testing during oil and gas exploration."
+"Service Unit Operators, Oil and Gas","[MASK] operate equipment to increase oil flow from producing wells or to remove stuck pipe, casing, tools, or other obstructions from drilling wells."
+"Excavating and Loading Machine and Dragline Operators, Surface Mining","[MASK] operate or tend machinery at surface mining site, equipped with scoops, shovels, or buckets to excavate and load loose materials."
+"Earth Drillers, Except Oil and Gas","[MASK] operate a variety of drills such as rotary, churn, and pneumatic to tap subsurface water and salt deposits, to remove core samples during mineral exploration or soil testing, and to facilitate the use of explosives in mining or construction."
+"Explosives Workers, Ordnance Handling Experts, and Blasters","[MASK] place and detonate explosives to demolish structures or to loosen, remove, or displace earth, rock, or other materials."
+Continuous Mining Machine Operators,"[MASK] operate self-propelled mining machines that rip coal, metal and nonmetal ores, rock, stone, or sand from the mine face and load it onto conveyors, shuttle cars, or trucks in a continuous operation."
+"Roof Bolters, Mining",[MASK] operate machinery to install roof support bolts in underground mine.
+"Loading and Moving Machine Operators, Underground Mining","[MASK] operate underground loading or moving machine to load or move coal, ore, or rock using shuttle or mine car or conveyors."
+"Underground Mining Machine Operators, All Other",[MASK] all underground mining machine operators not listed separately.
+"Rock Splitters, Quarry","[MASK] separate blocks of rough dimension stone from quarry mass using jackhammers, wedges, or chop saws."
+"Roustabouts, Oil and Gas",[MASK] assemble or repair oil field equipment using hand and power tools.
+Helpers--Extraction Workers,"[MASK] help extraction craft workers, such as earth drillers, blasters and explosives workers, derrick operators, and mining machine operators, by performing duties requiring less skill."
+"Extraction Workers, All Other",[MASK] all extraction workers not listed separately.
+"First-Line Supervisors of Mechanics, Installers, and Repairers","[MASK] directly supervise and coordinate the activities of mechanics, installers, and repairers."
+"Computer, Automated Teller, and Office Machine Repairers","[MASK] repair, maintain, or install computers, word processing systems, automated teller machines, and electronic office machines, such as duplicating and fax machines."
+"Radio, Cellular, and Tower Equipment Installers and Repairers","[MASK] repair, install, or maintain mobile or stationary radio transmitting, broadcasting, and receiving equipment, and two-way radio communications systems used in cellular telecommunications, mobile broadband, ship-to-shore, aircraft-to-ground communications, and radio equipment in service and emergency vehicles."
+"Telecommunications Equipment Installers and Repairers, Except Line Installers","[MASK] install, set up, rearrange, or remove switching, distribution, routing, and dialing equipment used in central offices or headends."
+Avionics Technicians,"[MASK] install, inspect, test, adjust, or repair avionics equipment, such as radar, radio, navigation, and missile control systems in aircraft or space vehicles."
+"Electric Motor, Power Tool, and Related Repairers","[MASK] repair, maintain, or install electric motors, wiring, or switches."
+"Electrical and Electronics Installers and Repairers, Transportation Equipment","[MASK] install, adjust, or maintain mobile electronics communication equipment, including sound, sonar, security, navigation, and surveillance systems on trains, watercraft, or other mobile equipment."
+"Electrical and Electronics Repairers, Commercial and Industrial Equipment","[MASK] repair, test, adjust, or install electronic equipment, such as industrial controls, transmitters, and antennas."
+"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","[MASK] inspect, test, repair, or maintain electrical equipment in generating stations, substations, and in-service relays."
+"Electronic Equipment Installers and Repairers, Motor Vehicles","[MASK] install, diagnose, or repair communications, sound, security, or navigation equipment in motor vehicles."
+Audiovisual Equipment Installers and Repairers,"[MASK] install, repair, or adjust audio or television receivers, stereo systems, camcorders, video systems, or other electronic entertainment equipment in homes or other venues."
+Security and Fire Alarm Systems Installers,"[MASK] install, program, maintain, and repair security and fire alarm wiring and equipment."
+Aircraft Mechanics and Service Technicians,"[MASK] diagnose, adjust, repair, or overhaul aircraft engines and assemblies, such as hydraulic and pneumatic systems."
+Automotive Body and Related Repairers,[MASK] repair and refinish automotive vehicle bodies and straighten vehicle frames.
+Automotive Glass Installers and Repairers,[MASK] replace or repair broken windshields and window glass in motor vehicles.
+Automotive Service Technicians and Mechanics,"[MASK] diagnose, adjust, repair, or overhaul automotive vehicles."
+Bus and Truck Mechanics and Diesel Engine Specialists,"[MASK] diagnose, adjust, repair, or overhaul buses and trucks, or maintain and repair any type of diesel engines."
+Farm Equipment Mechanics and Service Technicians,"[MASK] diagnose, adjust, repair, or overhaul farm machinery and vehicles, such as tractors, harvesters, dairy equipment, and irrigation systems."
+"Mobile Heavy Equipment Mechanics, Except Engines","[MASK] diagnose, adjust, repair, or overhaul mobile mechanical, hydraulic, and pneumatic equipment, such as cranes, bulldozers, graders, and conveyors, used in construction, logging, and mining."
+Rail Car Repairers,"[MASK] diagnose, adjust, repair, or overhaul railroad rolling stock, mine cars, or mass transit rail cars."
+Motorboat Mechanics and Service Technicians,[MASK] repair and adjust electrical and mechanical equipment of inboard or inboard-outboard boat engines.
+Motorcycle Mechanics,"[MASK] diagnose, adjust, repair, or overhaul motorcycles, scooters, mopeds, dirt bikes, or similar motorized vehicles."
+Outdoor Power Equipment and Other Small Engine Mechanics,"[MASK] diagnose, adjust, repair, or overhaul small engines used to power lawn mowers, chain saws, recreational sporting equipment, and related equipment."
+Bicycle Repairers,[MASK] repair and service bicycles.
+Recreational Vehicle Service Technicians,"[MASK] diagnose, inspect, adjust, repair, or overhaul recreational vehicles including travel trailers."
+Tire Repairers and Changers,[MASK] repair and replace tires.
+Mechanical Door Repairers,"[MASK] install, service, or repair automatic door mechanisms and hydraulic doors."
+"Control and Valve Installers and Repairers, Except Mechanical Door","[MASK] install, repair, and maintain mechanical regulating and controlling devices, such as electric meters, gas regulators, thermostats, safety and flow valves, and other mechanical governors."
+"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","[MASK] install or repair heating, central air conditioning, HVAC, or refrigeration systems, including oil burners, hot-air furnaces, and heating stoves."
+Home Appliance Repairers,"[MASK] repair, adjust, or install all types of electric or gas household appliances, such as refrigerators, washers, dryers, and ovens."
+Industrial Machinery Mechanics,"[MASK] repair, install, adjust, or maintain industrial production and processing machinery or refinery and pipeline distribution systems."
+"Maintenance Workers, Machinery","[MASK] lubricate machinery, change parts, or perform other routine machinery maintenance."
+Millwrights,"[MASK] install, dismantle, or move machinery and heavy equipment according to layout plans, blueprints, or other drawings."
+"Refractory Materials Repairers, Except Brickmasons","[MASK] build or repair equipment such as furnaces, kilns, cupolas, boilers, converters, ladles, soaking pits, and ovens, using refractory materials."
+Electrical Power-Line Installers and Repairers,[MASK] install or repair cables or wires used in electrical power or distribution systems.
+Telecommunications Line Installers and Repairers,"[MASK] install and repair telecommunications cable, including fiber optics."
+Camera and Photographic Equipment Repairers,"[MASK] repair and adjust cameras and photographic equipment, including commercial video and motion picture camera equipment."
+Medical Equipment Repairers,"[MASK] test, adjust, or repair biomedical or electromedical equipment."
+Musical Instrument Repairers and Tuners,"[MASK] repair percussion, stringed, reed, or wind instruments."
+Watch and Clock Repairers,"[MASK] repair, clean, and adjust mechanisms of timing instruments, such as watches and clocks."
+"Precision Instrument and Equipment Repairers, All Other",[MASK] all precision instrument and equipment repairers not listed separately.
+"Maintenance and Repair Workers, General","[MASK] perform work involving the skills of two or more maintenance or craft occupations to keep machines, mechanical equipment, or the structure of a building in repair."
+Wind Turbine Service Technicians,"[MASK] inspect, diagnose, adjust, or repair wind turbines."
+"Coin, Vending, and Amusement Machine Servicers and Repairers","[MASK] install, service, adjust, or repair coin, vending, or amusement machines including video games, juke boxes, pinball machines, or slot machines."
+Commercial Divers,"[MASK] work below surface of water, using surface-supplied air or scuba equipment to inspect, repair, remove, or install equipment and structures."
+Locksmiths and Safe Repairers,"[MASK] repair and open locks, make keys, change locks and safe combinations, and install and repair safes."
+Manufactured Building and Mobile Home Installers,[MASK] move or install mobile homes or prefabricated buildings.
+Riggers,"[MASK] set up or repair rigging for construction projects, manufacturing plants, logging yards, ships and shipyards, or for the entertainment industry."
+Signal and Track Switch Repairers,"[MASK] install, inspect, test, maintain, or repair electric gate crossings, signals, signal equipment, track switches, section lines, or intercommunications systems within a railroad system."
+"Helpers--Installation, Maintenance, and Repair Workers","[MASK] help installation, maintenance, and repair workers in maintenance, parts replacement, and repair of vehicles, industrial machinery, and electrical and electronic equipment."
+"Installation, Maintenance, and Repair Workers, All Other","[MASK] all installation, maintenance, and repair workers not listed separately."
+Geothermal Technicians,[MASK] perform technical activities at power plants or individual installations necessary for the generation of power from geothermal energy sources.
+First-Line Supervisors of Production and Operating Workers,"[MASK] directly supervise and coordinate the activities of production and operating workers, such as inspectors, precision workers, machine setters and operators, assemblers, fabricators, and plant and system operators."
+"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers","[MASK] assemble, fit, fasten, and install parts of airplanes, space vehicles, or missiles, such as tails, wings, fuselage, bulkheads, stabilizers, landing gear, rigging and control equipment, or heating and ventilating systems."
+"Coil Winders, Tapers, and Finishers","[MASK] wind wire coils used in electrical components, such as resistors and transformers, and in electrical equipment and instruments, such as field cores, bobbins, armature cores, electrical motors, generators, and control equipment."
+Electrical and Electronic Equipment Assemblers,"[MASK] assemble or modify electrical or electronic equipment, such as computers, test equipment telemetering systems, electric motors, and batteries."
+Electromechanical Equipment Assemblers,"[MASK] assemble or modify electromechanical equipment or devices, such as servomechanisms, gyros, dynamometers, magnetic drums, tape drives, brakes, control linkage, actuators, and appliances."
+Engine and Other Machine Assemblers,"[MASK] construct, assemble, or rebuild machines, such as engines, turbines, and similar equipment used in such industries as construction, extraction, textiles, and paper manufacturing."
+Structural Metal Fabricators and Fitters,"[MASK] fabricate, position, align, and fit parts of structural metal products."
+Fiberglass Laminators and Fabricators,"[MASK] laminate layers of fiberglass on molds to form boat decks and hulls, bodies for golf carts, automobiles, or other products."
+Timing Device Assemblers and Adjusters,"[MASK] perform precision assembling or adjusting, within narrow tolerances, of timing devices such as digital clocks or timing devices with electrical or electronic components."
+Team Assemblers,[MASK] work as part of a team having responsibility for assembling an entire product or component of a product.
+"Assemblers and Fabricators, All Other",[MASK] all assemblers and fabricators not listed separately.
+Bakers,"[MASK] mix and bake ingredients to produce breads, rolls, cookies, cakes, pies, pastries, or other baked goods."
+Butchers and Meat Cutters,"[MASK] cut, trim, or prepare consumer-sized portions of meat for use or sale in retail establishments."
+"Meat, Poultry, and Fish Cutters and Trimmers","[MASK] use hands or hand tools to perform routine cutting and trimming of meat, poultry, and seafood."
+Slaughterers and Meat Packers,[MASK] perform nonroutine or precision functions involving the preparation of large portions of meat.
+"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders","[MASK] operate or tend food or tobacco roasting, baking, or drying equipment, including hearth ovens, kiln driers, roasters, char kilns, and vacuum drying equipment."
+Food Batchmakers,[MASK] set up and operate equipment that mixes or blends ingredients used in the manufacturing of food products.
+Food Cooking Machine Operators and Tenders,"[MASK] operate or tend cooking equipment, such as steam cooking vats, deep fry cookers, pressure cookers, kettles, and boilers, to prepare food products."
+"Food Processing Workers, All Other",[MASK] all food processing workers not listed separately.
+"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic","[MASK] set up, operate, or tend machines to extrude or draw thermoplastic or metal materials into tubes, rods, hoses, wire, bars, or structural shapes."
+"Forging Machine Setters, Operators, and Tenders, Metal and Plastic","[MASK] set up, operate, or tend forging machines to taper, shape, or form metal or plastic parts."
+"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic","[MASK] set up, operate, or tend machines to roll steel or plastic forming bends, beads, knurls, rolls, or plate, or to flatten, temper, or reduce gauge of material."
+"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic","[MASK] set up, operate, or tend machines to saw, cut, shear, slit, punch, crimp, notch, bend, or straighten metal or plastic material."
+"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic","[MASK] set up, operate, or tend drilling machines to drill, bore, ream, mill, or countersink metal or plastic work pieces."
+"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic","[MASK] set up, operate, or tend grinding and related tools that remove excess material or burrs from surfaces, sharpen edges or corners, or buff, hone, or polish metal or plastic work pieces."
+"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","[MASK] set up, operate, or tend lathe and turning machines to turn, bore, thread, form, or face metal or plastic materials, such as wire, rod, or bar stock."
+"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","[MASK] set up, operate, or tend milling or planing machines to mill, plane, shape, groove, or profile metal or plastic work pieces."
+Machinists,[MASK] set up and operate a variety of machine tools to produce precision parts and instruments out of metal.
+Metal-Refining Furnace Operators and Tenders,"[MASK] operate or tend furnaces, such as gas, oil, coal, electric-arc or electric induction, open-hearth, or oxygen furnaces, to melt and refine metal before casting or to produce specified types of steel."
+"Pourers and Casters, Metal",[MASK] operate hand-controlled mechanisms to pour and regulate the flow of molten metal into molds to produce castings or ingots.
+"Model Makers, Metal and Plastic","[MASK] set up and operate machines, such as lathes, milling and engraving machines, and jig borers to make working models of metal or plastic objects."
+"Patternmakers, Metal and Plastic","[MASK] lay out, machine, fit, and assemble castings and parts to metal or plastic foundry patterns, core boxes, or match plates."
+Foundry Mold and Coremakers,[MASK] make or form wax or sand cores or molds used in the production of metal castings in foundries.
+"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic","[MASK] set up, operate, or tend metal or plastic molding, casting, or coremaking machines to mold or cast metal or thermoplastic parts or products."
+"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic","[MASK] set up, operate, or tend more than one type of cutting or forming machine tool or robot."
+Tool and Die Makers,"[MASK] analyze specifications, lay out metal stock, set up and operate machine tools, and fit and assemble parts to make and repair dies, cutting tools, jigs, fixtures, gauges, and machinists' hand tools."
+"Welders, Cutters, Solderers, and Brazers","[MASK] use hand-welding, flame-cutting, hand-soldering, or brazing equipment to weld or join metal components or to fill holes, indentations, or seams of fabricated metal products."
+"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders","[MASK] set up, operate, or tend welding, soldering, or brazing machines or robots that weld, braze, solder, or heat treat metal products, components, or assemblies."
+"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","[MASK] set up, operate, or tend heating equipment, such as heat-treating furnaces, flame-hardening machines, induction machines, soaking pits, or vacuum equipment to temper, harden, anneal, or heat treat metal or plastic objects."
+"Layout Workers, Metal and Plastic","[MASK] lay out reference points and dimensions on metal or plastic stock or workpieces, such as sheets, plates, tubes, structural shapes, castings, or machine parts, for further processing."
+"Plating Machine Setters, Operators, and Tenders, Metal and Plastic","[MASK] set up, operate, or tend plating machines to coat metal or plastic products with chromium, zinc, copper, cadmium, nickel, or other metal to protect or decorate surfaces."
+"Tool Grinders, Filers, and Sharpeners","[MASK] perform precision smoothing, sharpening, polishing, or grinding of metal objects."
+"Metal Workers and Plastic Workers, All Other",[MASK] all metal workers and plastic workers not listed separately.
+Prepress Technicians and Workers,[MASK] format and proof text and images submitted by designers and clients into finished pages that can be printed.
+Printing Press Operators,"[MASK] set up and operate digital, letterpress, lithographic, flexographic, gravure, or other printing machines."
+Print Binding and Finishing Workers,[MASK] bind books and other publications or finish printed products by hand or machine.
+Laundry and Dry-Cleaning Workers,"[MASK] operate or tend washing or dry-cleaning machines to wash or dry-clean industrial or household articles, such as cloth garments, suede, leather, furs, blankets, draperies, linens, rugs, and carpets."
+"Pressers, Textile, Garment, and Related Materials",[MASK] press or shape articles by hand or machine.
+Sewing Machine Operators,"[MASK] operate or tend sewing machines to join, reinforce, decorate, or perform related sewing operations in the manufacture of garment or nongarment products."
+Shoe and Leather Workers and Repairers,"[MASK] construct, decorate, or repair leather and leather-like products, such as luggage, shoes, and saddles."
+Shoe Machine Operators and Tenders,"[MASK] operate or tend a variety of machines to join, decorate, reinforce, or finish shoes and shoe parts."
+"Sewers, Hand","[MASK] sew, join, reinforce, or finish, usually with needle and thread, a variety of manufactured items."
+"Tailors, Dressmakers, and Custom Sewers","[MASK] design, make, alter, repair, or fit garments."
+Textile Bleaching and Dyeing Machine Operators and Tenders,"[MASK] operate or tend machines to bleach, shrink, wash, dye, or finish textiles or synthetic or glass fibers."
+"Textile Cutting Machine Setters, Operators, and Tenders","[MASK] set up, operate, or tend machines that cut textiles."
+"Textile Knitting and Weaving Machine Setters, Operators, and Tenders","[MASK] set up, operate, or tend machines that knit, loop, weave, or draw in textiles."
+"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders","[MASK] set up, operate, or tend machines that wind or twist textiles; or draw out and combine sliver, such as wool, hemp, or synthetic fibers."
+"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers","[MASK] set up, operate, or tend machines that extrude and form continuous filaments from synthetic materials, such as liquid polymer, rayon, and fiberglass."
+Fabric and Apparel Patternmakers,[MASK] draw and construct sets of precision master fabric patterns or layouts.
+Upholsterers,"[MASK] make, repair, or replace upholstery for household furniture or transportation vehicles."
+"Textile, Apparel, and Furnishings Workers, All Other","[MASK] all textile, apparel, and furnishings workers not listed separately."
+Cabinetmakers and Bench Carpenters,"[MASK] cut, shape, and assemble wooden articles or set up and operate a variety of woodworking machines, such as power saws, jointers, and mortisers to surface, cut, or shape lumber or to fabricate parts for wood products."
+Furniture Finishers,"[MASK] shape, finish, and refinish damaged, worn, or used furniture or new high-grade furniture to specified color or finish."
+"Model Makers, Wood",[MASK] construct full-size and scale wooden precision models of products.
+"Patternmakers, Wood","[MASK] plan, lay out, and construct wooden unit or sectional patterns used in forming sand molds for castings."
+"Sawing Machine Setters, Operators, and Tenders, Wood","[MASK] set up, operate, or tend wood sawing machines."
+"Woodworking Machine Setters, Operators, and Tenders, Except Sawing","[MASK] set up, operate, or tend woodworking machines, such as drill presses, lathes, shapers, routers, sanders, planers, and wood nailing machines."
+"Woodworkers, All Other",[MASK] all woodworkers not listed separately.
+Nuclear Power Reactor Operators,[MASK] operate or control nuclear reactors.
+Power Distributors and Dispatchers,"[MASK] coordinate, regulate, or distribute electricity or steam."
+Power Plant Operators,"[MASK] control, operate, or maintain machinery to generate electric power."
+Biomass Plant Technicians,[MASK] control and monitor biomass plant activities and perform maintenance as needed.
+Hydroelectric Plant Technicians,[MASK] monitor and control activities associated with hydropower generation.
+Stationary Engineers and Boiler Operators,"[MASK] operate or maintain stationary engines, boilers, or other mechanical equipment to provide utilities for buildings or industrial processes."
+Water and Wastewater Treatment Plant and System Operators,"[MASK] operate or control an entire process or system of machines, often through the use of control boards, to transfer or treat water or wastewater."
+Chemical Plant and System Operators,[MASK] control or operate entire chemical processes or system of machines.
+Gas Plant Operators,[MASK] distribute or process gas for utility companies and others by controlling compressors to maintain specified pressures on main pipelines.
+"Petroleum Pump System Operators, Refinery Operators, and Gaugers",[MASK] operate or control petroleum refining or processing units.
+"Plant and System Operators, All Other",[MASK] all plant and system operators not listed separately.
+Biofuels Processing Technicians,"[MASK] calculate, measure, load, mix, and process refined feedstock with additives in fermentation or reaction process vessels and monitor production process."
+Chemical Equipment Operators and Tenders,[MASK] operate or tend equipment to control chemical changes or reactions in the processing of industrial or consumer products.
+"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","[MASK] set up, operate, or tend continuous flow or vat-type equipment; filter presses; shaker screens; centrifuges; condenser tubes; precipitating, fermenting, or evaporating tanks; scrubbing towers; or batch stills."
+"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","[MASK] set up, operate, or tend machines to crush, grind, or polish materials, such as coal, glass, grain, stone, food, or rubber."
+"Grinding and Polishing Workers, Hand","[MASK] grind, sand, or polish, using hand tools or hand-held power tools, a variety of metal, wood, stone, clay, plastic, or glass objects."
+"Mixing and Blending Machine Setters, Operators, and Tenders","[MASK] set up, operate, or tend machines to mix or blend materials, such as chemicals, tobacco, liquids, color pigments, or explosive ingredients."
+"Cutters and Trimmers, Hand","[MASK] use hand tools or hand-held power tools to cut and trim a variety of manufactured items, such as carpet, fabric, stone, glass, or rubber."
+"Cutting and Slicing Machine Setters, Operators, and Tenders","[MASK] set up, operate, or tend machines that cut or slice materials, such as glass, stone, cork, rubber, tobacco, food, paper, or insulating material."
+"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders","[MASK] set up, operate, or tend machines, such as glass-forming machines, plodder machines, and tuber machines, to shape and form products such as glassware, food, rubber, soap, brick, tile, clay, wax, tobacco, or cosmetics."
+"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders","[MASK] operate or tend heating equipment other than basic metal, plastic, or food processing equipment."
+"Inspectors, Testers, Sorters, Samplers, and Weighers","[MASK] inspect, test, sort, sample, or weigh nonagricultural raw materials or processed, machined, fabricated, or assembled parts or products for defects, wear, and deviations from specifications."
+Jewelers and Precious Stone and Metal Workers,"[MASK] design, fabricate, adjust, repair, or appraise jewelry, gold, silver, other precious metals, or gems."
+Gem and Diamond Workers,"[MASK] fabricate, finish, or evaluate the quality of gems and diamonds used in jewelry or industrial tools."
+Dental Laboratory Technicians,[MASK] construct and repair full or partial dentures or dental appliances.
+Medical Appliance Technicians,"[MASK] construct, maintain, or repair medical supportive devices such as braces, orthotics and prosthetic devices, joints, arch supports, and other surgical and medical appliances."
+Ophthalmic Laboratory Technicians,"[MASK] cut, grind, and polish eyeglasses, contact lenses, or other precision optical elements."
+Packaging and Filling Machine Operators and Tenders,[MASK] operate or tend machines to prepare industrial or consumer products for storage or shipment.
+"Painting, Coating, and Decorating Workers","[MASK] paint, coat, or decorate articles, such as furniture, glass, plateware, pottery, jewelry, toys, books, or leather."
+"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","[MASK] set up, operate, or tend spraying or rolling machines to coat or paint any of a wide variety of products, including glassware, cloth, ceramics, metal, plastic, paper, or wood, with lacquer, silver, copper, rubber, varnish, glaze, enamel, oil, or rust-proofing materials."
+Semiconductor Processing Technicians,"[MASK] perform any or all of the following functions in the manufacture of electronic semiconductors: load semiconductor material into furnace; saw formed ingots into segments; load individual segment into crystal growing chamber and monitor controls; locate crystal axis in ingot using x-ray equipment and saw ingots into wafers; and clean, polish, and load wafers into series of special purpose furnaces, chemical baths, and equipment used to form circuitry and change conductive properties."
+Photographic Process Workers and Processing Machine Operators,[MASK] perform work involved in developing and processing photographic images from film or digital media.
+Computer Numerically Controlled Tool Operators,"[MASK] operate computer-controlled tools, machines, or robots to machine or process parts, tools, or other work pieces made of metal, plastic, wood, stone, or other materials."
+Computer Numerically Controlled Tool Programmers,"[MASK] develop programs to control machining or processing of materials by automatic machine tools, equipment, or systems."
+Adhesive Bonding Machine Operators and Tenders,[MASK] operate or tend bonding machines that use adhesives to join items for further processing or to form a completed product.
+"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","[MASK] operate or tend machines to wash or clean products, such as barrels or kegs, glass items, tin plate, food, pulp, coal, plastic, or rubber, to remove impurities."
+Cooling and Freezing Equipment Operators and Tenders,"[MASK] operate or tend equipment such as cooling and freezing units, refrigerators, batch freezers, and freezing tunnels, to cool or freeze products, food, blood plasma, and chemicals."
+Etchers and Engravers,"[MASK] engrave or etch metal, wood, rubber, or other materials."
+"Molders, Shapers, and Casters, Except Metal and Plastic","[MASK] mold, shape, form, cast, or carve products such as food products, figurines, tile, pipes, and candles consisting of clay, glass, plaster, concrete, stone, or combinations of materials."
+"Stone Cutters and Carvers, Manufacturing",[MASK] cut or carve stone according to diagrams and patterns.
+"Glass Blowers, Molders, Benders, and Finishers",[MASK] shape molten glass according to patterns.
+"Potters, Manufacturing","[MASK] operate production machines such as pug mill, jigger machine, or potter's wheel to process clay in manufacture of ceramic, pottery and stoneware products."
+"Paper Goods Machine Setters, Operators, and Tenders","[MASK] set up, operate, or tend paper goods machines that perform a variety of functions, such as converting, sawing, corrugating, banding, wrapping, boxing, stitching, forming, or sealing paper or paperboard sheets into products."
+Tire Builders,[MASK] operate machines to build tires.
+Helpers--Production Workers,[MASK] help production workers by performing duties requiring less skill.
+"Production Workers, All Other",[MASK] all production workers not listed separately.
+Aircraft Cargo Handling Supervisors,"[MASK] supervise and coordinate the activities of ground crew in the loading, unloading, securing, and staging of aircraft cargo or baggage."
+"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand","[MASK] directly supervise and coordinate the activities of helpers, laborers, or material movers, hand."
+Recycling Coordinators,[MASK] supervise curbside and drop-off recycling programs for municipal governments or private firms.
+First-Line Supervisors of Material-Moving Machine and Vehicle Operators,[MASK] directly supervise and coordinate activities of material-moving machine and vehicle operators and helpers.
+First-Line Supervisors of Passenger Attendants,[MASK] supervise and coordinate activities of passenger attendants.
+"First-Line Supervisors of Transportation Workers, All Other",[MASK] all first-line supervisors of transportation workers not listed separately.
+"Airline Pilots, Copilots, and Flight Engineers","[MASK] pilot and navigate the flight of fixed-wing aircraft, usually on scheduled air carrier routes, for the transport of passengers and cargo."
+Commercial Pilots,"[MASK] pilot and navigate the flight of fixed-wing aircraft on nonscheduled air carrier routes, or helicopters."
+Air Traffic Controllers,"[MASK] control air traffic on and within vicinity of airport, and movement of air traffic between altitude sectors and control centers, according to established procedures and policies."
+Airfield Operations Specialists,[MASK] ensure the safe takeoff and landing of commercial and military aircraft.
+Flight Attendants,[MASK] monitor safety of the aircraft cabin.
+"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","[MASK] drive ambulance or assist ambulance driver in transporting sick, injured, or convalescent persons."
+Driver/Sales Workers,"[MASK] drive truck or other vehicle over established routes or within an established territory and sell or deliver goods, such as food products, including restaurant take-out items, or pick up or deliver items such as commercial laundry."
+Heavy and Tractor-Trailer Truck Drivers,"[MASK] drive a tractor-trailer combination or a truck with a capacity of at least 26,001 pounds Gross Vehicle Weight (GVW)."
+Light Truck Drivers,"[MASK] drive a light vehicle, such as a truck or van, with a capacity of less than 26,001 pounds Gross Vehicle Weight (GVW), primarily to pick up merchandise or packages from a distribution center and deliver."
+"Bus Drivers, School",[MASK] drive a school bus to transport students.
+"Bus Drivers, Transit and Intercity","[MASK] drive bus or motor coach, including regular route operations, charters, and private carriage."
+Shuttle Drivers and Chauffeurs,[MASK] drive a motor vehicle to transport passengers on a planned or scheduled basis.
+Taxi Drivers,"[MASK] drive a motor vehicle to transport passengers on an unplanned basis and charge a fare, usually based on a meter."
+"Motor Vehicle Operators, All Other",[MASK] all motor vehicle operators not listed separately.
+Locomotive Engineers,"[MASK] drive electric, diesel-electric, steam, or gas-turbine-electric locomotives to transport passengers or freight."
+"Rail Yard Engineers, Dinkey Operators, and Hostlers","[MASK] drive switching or other locomotive or dinkey engines within railroad yard, industrial plant, quarry, construction project, or similar location."
+"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",[MASK] operate or monitor railroad track switches or locomotive instruments.
+Railroad Conductors and Yardmasters,"[MASK] coordinate activities of switch-engine crew within railroad yard, industrial plant, or similar location."
+Subway and Streetcar Operators,"[MASK] operate subway or elevated suburban trains with no separate locomotive, or electric-powered streetcar, to transport passengers."
+"Rail Transportation Workers, All Other",[MASK] all rail transportation workers not listed separately.
+Sailors and Marine Oilers,"[MASK] stand watch to look for obstructions in path of vessel, measure water depth, turn wheel on bridge, or use emergency equipment as directed by captain, mate, or pilot."
+"Captains, Mates, and Pilots of Water Vessels","[MASK] command or supervise operations of ships and water vessels, such as tugboats and ferryboats."
+Motorboat Operators,[MASK] operate small motor-driven boats.
+Ship Engineers,"[MASK] supervise and coordinate activities of crew engaged in operating and maintaining engines, boilers, deck machinery, and electrical, sanitary, and refrigeration equipment aboard ship."
+Bridge and Lock Tenders,"[MASK] operate and tend bridges, canal locks, and lighthouses to permit marine passage on inland waterways, near shores, and at danger points in waterway passages."
+Parking Attendants,[MASK] park vehicles or issue tickets for customers in a parking lot or garage.
+Automotive and Watercraft Service Attendants,"[MASK] service automobiles, buses, trucks, boats, and other automotive or marine vehicles with fuel, lubricants, and accessories."
+Aircraft Service Attendants,[MASK] service aircraft with fuel.
+Traffic Technicians,"[MASK] conduct field studies to determine traffic volume, speed, effectiveness of signals, adequacy of lighting, and other factors influencing traffic conditions, under direction of traffic engineer."
+Transportation Inspectors,[MASK] inspect equipment or goods in connection with the safe transport of cargo or people.
+Aviation Inspectors,"[MASK] inspect aircraft, maintenance procedures, air navigational aids, air traffic controls, and communications equipment to ensure conformance with Federal safety regulations."
+"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation","[MASK] inspect and monitor transportation equipment, vehicles, or systems to ensure compliance with regulations and safety standards."
+Passenger Attendants,"[MASK] provide services to ensure the safety of passengers aboard ships, buses, trains, or within the station or terminal."
+"Transportation Workers, All Other",[MASK] all transportation workers not listed separately.
+Conveyor Operators and Tenders,"[MASK] control or tend conveyors or conveyor systems that move materials or products to and from stockpiles, processing stations, departments, or vehicles."
+Crane and Tower Operators,"[MASK] operate mechanical boom and cable or tower and cable equipment to lift and move materials, machines, or products in many directions."
+Dredge Operators,"[MASK] operate dredge to remove sand, gravel, or other materials in order to excavate and maintain navigable channels in waterways."
+Hoist and Winch Operators,[MASK] operate or tend hoists or winches to lift and pull loads using power-operated cable equipment.
+Industrial Truck and Tractor Operators,"[MASK] operate industrial trucks or tractors equipped to move materials around a warehouse, storage yard, factory, construction site, or similar location."
+Cleaners of Vehicles and Equipment,"[MASK] wash or otherwise clean vehicles, machinery, and other equipment."
+"Laborers and Freight, Stock, and Material Movers, Hand","[MASK] manually move freight, stock, luggage, or other materials, or perform other general labor."
+Recycling and Reclamation Workers,[MASK] prepare and sort materials or products for recycling.
+Machine Feeders and Offbearers,[MASK] feed materials into or remove materials from machines or equipment that is automatic or tended by other workers.
+"Packers and Packagers, Hand",[MASK] pack or package by hand a wide variety of products and materials.
+Stockers and Order Fillers,"[MASK] receive, store, and issue merchandise, materials, equipment, and other items from stockroom, warehouse, or storage yard to fill shelves, racks, tables, or customers' orders."
+Gas Compressor and Gas Pumping Station Operators,"[MASK] operate steam-, gas-, electric motor-, or internal combustion-engine driven compressors."
+"Pump Operators, Except Wellhead Pumpers","[MASK] tend, control, or operate power-driven, stationary, or portable pumps and manifold systems to transfer gases, oil, other liquids, slurries, or powdered materials to and from various vessels and processes."
+Wellhead Pumpers,[MASK] operate power pumps and auxiliary equipment to produce flow of oil or gas from wells in oil field.
+Refuse and Recyclable Material Collectors,[MASK] collect and dump refuse or recyclable materials from containers into truck.
+"Tank Car, Truck, and Ship Loaders","[MASK] load and unload chemicals and bulk solids, such as coal, sand, and grain, into or from tank cars, trucks, or ships, using material moving equipment."
+"Material Moving Workers, All Other",[MASK] all material moving workers not listed separately.
+Air Crew Officers,"[MASK] perform and direct in-flight duties to ensure the successful completion of combat, reconnaissance, transport, and search and rescue missions."
+Aircraft Launch and Recovery Officers,"[MASK] plan and direct the operation and maintenance of catapults, arresting gear, and associated mechanical, hydraulic, and control systems involved primarily in aircraft carrier takeoff and landing operations."
+Armored Assault Vehicle Officers,"[MASK] direct the operation of tanks, light armor, and amphibious assault vehicle units during combat situations on land or in aquatic environments."
+Artillery and Missile Officers,"[MASK] manage personnel and weapons operations to destroy enemy positions, aircraft, and vessels."
+Command and Control Center Officers,"[MASK] manage the operation of communications, detection, and weapons systems essential for controlling air, ground, and naval operations."
+Infantry Officers,"[MASK] direct, train, and lead infantry units in ground combat operations."
+Special Forces Officers,"[MASK] lead elite teams that implement unconventional operations by air, land, or sea during combat or peacetime."
+"Military Officer Special and Tactical Operations Leaders, All Other",[MASK] all military officer special and tactical operations leaders not listed separately.
+First-Line Supervisors of Air Crew Members,[MASK] supervise and coordinate the activities of air crew members.
+First-Line Supervisors of Weapons Specialists/Crew Members,[MASK] supervise and coordinate the activities of weapons specialists/crew members.
+First-Line Supervisors of All Other Tactical Operations Specialists,[MASK] supervise and coordinate the activities of all other tactical operations specialists not classified separately above.
+Air Crew Members,"[MASK] perform in-flight duties to ensure the successful completion of combat, reconnaissance, transport, and search and rescue missions."
+Aircraft Launch and Recovery Specialists,"[MASK] operate and maintain catapults, arresting gear, and associated mechanical, hydraulic, and control systems involved primarily in aircraft carrier takeoff and landing operations."
+Armored Assault Vehicle Crew Members,"[MASK] operate tanks, light armor, and amphibious assault vehicles during combat situations on land or in aquatic environments."
+Artillery and Missile Crew Members,"[MASK] target, fire, and maintain weapons used to destroy enemy positions, aircraft, and vessels."
+Command and Control Center Specialists,"[MASK] operate and monitor communications, detection, and weapons systems essential for controlling air, ground, and naval operations."
+Infantry,[MASK] operate weapons and equipment in ground combat operations.
+Special Forces,"[MASK] implement unconventional operations by air, land, or sea during combat or peacetime as members of elite teams."
+"Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other",[MASK] all military enlisted tactical operations and air/weapons specialists and crewmembers not listed separately.
