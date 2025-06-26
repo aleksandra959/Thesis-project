@@ -5,4 +5,4 @@ The project explores how **SCM framework** (Stereotype Content Model) applied in
 ## Repository Structure 
 - data = folder containing all data needed to run the code thus csv files and xlsx files used in the analysis
 - models = this folder contains code run on my own machine showing the results on which the analysis was based upon and shows the results were a code-generated.
--  main folder files = these files are modified 'models' files allowing for code reproducibility as those contain relative paths (not as the models' files which were run on a private machine)
+-  main folder files = these files are modified 'models' files allowing for code reproducibility as those contain relative paths (not as the models' files which were run on a private machine) and profession mapping file which shows EDA performed on O'NET data source.
