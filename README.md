@@ -6,3 +6,6 @@ The project explores how **SCM framework** (Stereotype Content Model) applied in
 - data = folder containing all data needed to run the code thus csv files and xlsx files used in the analysis
 - models = this folder contains code run on my own machine showing the results on which the analysis was based upon and shows the results were a code-generated. Each model's run is aroung 2 hours.
 -  main folder files = these files are modified 'models' files allowing for code reproducibility as those contain relative paths (not as the models' files which were run on a private machine) and profession mapping file which shows EDA performed on O'NET data source.
+
+## Running the code
+To run the code it is neccessary to have packages listed in requirements.txt file downloaded as well as the data folder as the code utilizes .csv files located there. A run of each upploaded model lasts around 2 hours. The runs performed on desktop machine are shows in models folder.
